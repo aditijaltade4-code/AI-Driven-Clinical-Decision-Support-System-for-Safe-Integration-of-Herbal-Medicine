@@ -1,0 +1,1068 @@
+Entity,Type,Target,Action
+Acorus calamus,herb,CYP2D6,Inhibition
+Acorus calamus,herb,CYP3A4,Inhibition
+Aesculus indica,herb,CYP1A2,Activation
+Aesculus indica,herb,CYP2C9,Inhibition
+Aesculus indica,herb,CYP3A4,Inhibition
+Aesculus indica,herb,CYP2E1,NE
+Allium sativum,herb,CYP2E1,Inhibition
+Allium sativum,herb,CYP2B1,Activation
+Allium sativum,herb,CYP2B2,Activation
+Allium sativum,herb,CYP2D6,NE
+Allium sativum,herb,CYP3A4,NE
+Allium sativum,herb,CYP1A2,NE
+Allium sativum,herb,CYP1A1,Activation
+Andrographis paniculate,herb,CYP2C9,Inhibition
+Andrographis paniculate,herb,CYP2C11,Inhibition
+Andrographis paniculate,herb,CYP2D6,Inhibition
+Andrographis paniculate,herb,CYP3A4,Inhibition
+Andrographis paniculate,herb,CYP1A1,Activation
+Andrographis paniculate,herb,CYP1A2,Activation
+Andrographis paniculate,herb,CYP2C6,Activation
+Andrographis paniculate,herb,CYP3A1,Activation
+Berberis aristata,herb,CYP1A1,Inhibition
+Berberis aristata,herb,CYP1A2,Inhibition
+Berberis aristata,herb,CYP2E1,Inhibition
+Berberis aristata,herb,CYP3A11,Inhibition
+Berberis aristata,herb,CYP4A10,Inhibition
+Berberis aristata,herb,CYP4A14,Inhibition
+Carum carvi,herb,CYP1A1,Inhibition
+Centella asiatica,herb,CYP2C9,Inhibition
+Centella asiatica,herb,CYP2C19,Inhibition
+Centella asiatica,herb,CYP3A4,Inhibition
+Centella asiatica,herb,CYP1A2,NE
+Centella asiatica,herb,CYP2D6,NE
+Centella asiatica,herb,CYP2E1,NE
+Commiphora wightii,herb,CYP3A,Activation
+Curcuma longa,herb,CYP2C9,Inhibition
+Curcuma longa,herb,CYP1A1,Inhibition
+Curcuma longa,herb,CYP2B1,Inhibition
+Curcuma longa,herb,CYP2B2,Inhibition
+Curcuma longa,herb,CYP2E1,Inhibition
+Curcuma longa,herb,CYP1A2,Inhibition
+Curcuma longa,herb,CYP2B6,Inhibition
+Curcuma longa,herb,CYP2D6,Inhibition
+Curcuma longa,herb,CYP3A4,Inhibition
+Glycyrrhizin glabra,herb,CYP3A4,Activation
+Myristica fragrans,herb,CYP2C9,Inhibition
+Myristica fragrans,herb,CYP3A4,Inhibition
+Narthex asafetida,herb,CYP2C11,Inhibition
+Narthex asafetida,herb,CYP2D,Inhibition
+Phyllanthus amarus,herb,CYP1A1,Inhibition
+Phyllanthus amarus,herb,CYP2B1,Inhibition
+Phyllanthus amarus,herb,CYP2B2,Inhibition
+Phyllanthus amarus,herb,CYP2E1,Inhibition
+Salacia reticulata,herb,CYP1A1,Activation
+Salacia reticulata,herb,CYP1A2,Activation
+Salacia reticulata,herb,CYP2B,Activation
+Salacia reticulata,herb,CYP2C,Activation
+Terminalia arjuna,herb,CYP2A,Inhibition
+Terminalia chebula,herb,CYP450,Inhibition
+Warfarin,drug,CYP2C9,Substrate
+Clopidogrel,drug,CYP2C19,Substrate
+Simvastatin,drug,CYP3A4,Substrate
+Digoxin,drug,P-Glycoprotein,Substrate
+Rifampicin,drug,CYP3A4,Inducer
+Ketoconazole,drug,CYP3A4,Inhibition
+Piper nigrum,herb,CYP3A4,Inhibition
+Piper nigrum,herb,P-Glycoprotein,Inhibition
+Ginkgo biloba,herb,CYP2C19,Inhibition
+Ginkgo biloba,herb,CYP3A4,Induction
+Zingiber officinale,herb,CYP3A4,Inhibition
+Allium sativum,herb,CYP1A1,Activation
+Andrographis paniculate,herb,CYP1A1,Activation
+Salacia reticulata,herb,CYP1A1,Activation
+Berberis aristate,herb,CYP1A1,Inhibition
+Carum carvi,herb,CYP1A1,Inhibition
+Curcuma longa,herb,CYP1A1,Inhibition
+Phyllanthus amarus,herb,CYP1A1,Inhibition
+Commiphora wightii,herb,CYP3A4,Activation
+Glycyrrhizin glabra,herb,CYP3A4,Activation
+Acorus calamus,herb,CYP3A4,Inhibition
+Aesculus indica,herb,CYP3A4,Inhibition
+Andrographis paniculate,herb,CYP3A4,Inhibition
+Centella asiatica,herb,CYP3A4,Inhibition
+Curcuma longa,herb,CYP3A4,Inhibition
+Myristica fragrans,herb,CYP3A4,Inhibition
+Aesculus indica,herb,CYP1A2,Activation
+Andrographis paniculate,herb,CYP1A2,Activation
+Allium sativum,herb,CYP1A2,Activation
+Berberis aristate,herb,CYP1A2,Inhibition
+Curcuma longa,herb,CYP1A2,Inhibition
+Salacia reticulata,herb,CYP1A2,Inhibition
+Aesculus indica,herb,CYP2C9,Inhibition
+Andrographis paniculate,herb,CYP2C9,Inhibition
+Centella asiatica,herb,CYP2C9,Inhibition
+Curcuma longa,herb,CYP2C9,Inhibition
+Myristica fragrans,herb,CYP2C9,Inhibition
+Dacarbazine,drug,CYP1A1,Substrate
+Chlorzoxazone,drug,CYP1A1,Substrate
+Estrone,drug,CYP1A1,Substrate
+Granisetron,drug,CYP1A1,Substrate
+Tesmilifene,drug,CYP1A1,Substrate
+Resveratrol,drug,CYP1A1,Substrate
+Azimilide,drug,CYP1A1,Substrate
+Melatonin,drug,CYP1A1,Substrate
+Tamoxifen,drug,CYP1A1,Substrate
+Thalidomide,drug,CYP1A1,Substrate
+Azelastine,drug,CYP1A1,Substrate
+Cinnarizine,drug,CYP1A1,Substrate
+Flunarizine,drug,CYP1A1,Substrate
+Amiodarone,drug,CYP1A1,Substrate
+Carvedilol,drug,CYP1A1,Substrate
+Fluvastatin,drug,CYP1A1,Substrate
+Amodiaquine,drug,CYP1A1,Substrate
+Chloroquine,drug,CYP1A1,Substrate
+Clenbuterol,drug,CYP1A1,Substrate
+Daunorubicin,drug,CYP1A1,Substrate
+Debrisoquine,drug,CYP1A1,Substrate
+Estradiol,drug,CYP1A1,Substrate
+Flutamide,drug,CYP1A1,Substrate
+Nicotine,drug,CYP1A1,Substrate
+Omeprazole,drug,CYP1A1,Substrate
+Phenacetin,drug,CYP1A1,Substrate
+Progesterone,drug,CYP1A1,Substrate
+Riluzole,drug,CYP1A1,Substrate
+Testosterone,drug,CYP1A1,Substrate
+Theophylline,drug,CYP1A1,Substrate
+Toremifene,drug,CYP1A1,Substrate
+Erlotinib,drug,CYP1A1,Substrate
+Pentamidine,drug,CYP1A1,Substrate
+Tretinoin,drug,CYP1A1,Substrate
+Dasatinib,drug,CYP1A1,Substrate
+Clonidine,drug,CYP1A1,Substrate
+Banoxantrone,drug,CYP1A1,Substrate
+Lorcaserin,drug,CYP1A1,Substrate
+Gefitinib,drug,CYP1A1,Substrate
+Dapagliflozin,drug,CYP1A1,Substrate
+Romidepsin,drug,CYP1A1,Substrate
+Riociguat,drug,CYP1A1,Substrate
+Perospirone,drug,CYP1A1,Substrate
+Indirubin,drug,CYP1A1,Substrate
+Testosterone cypionate,drug,CYP1A1,Substrate
+Testosterone enanthate,drug,CYP1A1,Substrate
+Testosterone undecanoate,drug,CYP1A1,Substrate
+Estradiol acetate,drug,CYP1A1,Substrate
+Estradiol benzoate,drug,CYP1A1,Substrate
+Estradiol cypionate,drug,CYP1A1,Substrate
+Estradiol dienanthate,drug,CYP1A1,Substrate
+Estradiol valerate,drug,CYP1A1,Substrate
+Warfarin,drug,CYP1A1,Substrate
+Triclabendazole,drug,CYP1A1,Substrate
+Loratadine,drug,CYP1A1,Substrate
+Solifenacin,drug,CYP1A1,Substrate
+Haloperidol,drug,CYP1A1,Substrate
+Istradefylline,drug,CYP1A1,Substrate
+Difloxacin,drug,CYP1A1,Substrate
+Menadione,drug,CYP1A1,Inhibition
+Fluvoxamine,drug,CYP1A1,Inhibition
+Quinine,drug,CYP1A1,Inhibition
+Quinidine,drug,CYP1A1,Inhibition
+Ketoconazole,drug,CYP1A1,Inhibition
+Resveratrol,drug,CYP1A1,Inhibition
+Melatonin,drug,CYP1A1,Inhibition
+Amlodipine,drug,CYP1A1,Inhibition
+Azelastine,drug,CYP1A1,Inhibition
+Propofol,drug,CYP1A1,Inhibition
+Caffeine,drug,CYP1A1,Inhibition
+Cholecalciferol,drug,CYP1A1,Inhibition
+Dexamethasone,drug,CYP1A1,Inhibition
+Ethanol,drug,CYP1A1,Inhibition
+Isoprenaline,drug,CYP1A1,Inhibition
+Methoxsalen,drug,CYP1A1,Inhibition
+Nifedipine,drug,CYP1A1,Inhibition
+Nitroprusside,drug,CYP1A1,Inhibition
+Norfloxacin,drug,CYP1A1,Inhibition
+Propranolol,drug,CYP1A1,Inhibition
+Sulindac,drug,CYP1A1,Inhibition
+Theophylline,drug,CYP1A1,Inhibition
+Benzyl alcohol,drug,CYP1A1,Inhibition
+Dexmedetomidine,drug,CYP1A1,Inhibition
+Pyridoxine,drug,CYP1A1,Inhibition
+Ellagic acid,drug,CYP1A1,Inhibition
+Gefitinib,drug,CYP1A1,Inhibition
+Topiroxostat,drug,CYP1A1,Inhibition
+Manidipine,drug,CYP1A1,Inhibition
+Cannabidiol,drug,CYP1A1,Inhibition
+Cannabis,drug,CYP1A1,Inhibition
+Safinamide,drug,CYP1A1,Inhibition
+Nabiximols,drug,CYP1A1,Inhibition
+Menadione,drug,CYP1A1,Inducer
+Quinine,drug,CYP1A1,Inducer
+Thiabendazole,drug,CYP1A1,Inducer
+Ketoconazole,drug,CYP1A1,Inducer
+Primaquine,drug,CYP1A1,Inducer
+Fluvastatin,drug,CYP1A1,Inducer
+Albendazole,drug,CYP1A1,Inducer
+Bezafibrate,drug,CYP1A1,Inducer
+Clofibrate,drug,CYP1A1,Inducer
+Clozapine,drug,CYP1A1,Inducer
+Dexamethasone,drug,CYP1A1,Inducer
+Itraconazole,drug,CYP1A1,Inducer
+Lansoprazole,drug,CYP1A1,Inducer
+Mebendazole,drug,CYP1A1,Inducer
+Nicotine,drug,CYP1A1,Inducer
+Omeprazole,drug,CYP1A1,Inducer
+Rabeprazole,drug,CYP1A1,Inducer
+Troglitazone,drug,CYP1A1,Inducer
+Picrotoxin,drug,CYP1A1,Inducer
+Streptozocin,drug,CYP1A1,Inducer
+Phenobarbital,drug,CYP1A1,Inducer
+Ellagic acid,drug,CYP1A1,Inducer
+Triclocarban,drug,CYP1A1,Inducer
+Dovitinib,drug,CYP1A1,Inducer
+Propylthiouracil,drug,CYP1A1,Inducer
+Abemaciclib,drug,CYP3A4,Substrate
+Acalabrutinib,drug,CYP3A4,Substrate
+Alectinib,drug,CYP3A4,Substrate
+Alfentanil,drug,CYP3A4,Substrate
+Alprazolam,drug,CYP3A4,Substrate
+Amitriptyline,drug,CYP3A4,Substrate
+Amlodipine,drug,CYP3A4,Substrate
+Aprepitant,drug,CYP3A4,Substrate
+Aripiprazole,drug,CYP3A4,Substrate
+Astemizole,drug,CYP3A4,Substrate
+Atorvastatin,drug,CYP3A4,Substrate
+Boceprevir,drug,CYP3A4,Substrate
+Brexpiprazole,drug,CYP3A4,Substrate
+Brigatinib,drug,CYP3A4,Substrate
+Buspirone,drug,CYP3A4,Substrate
+Cafergot,drug,CYP3A4,Substrate
+Caffeine-tmu,drug,CYP3A4,Substrate
+Carbamazepine,drug,CYP3A4,Substrate
+Cariprazine,drug,CYP3A4,Substrate
+Cerivastatin,drug,CYP3A4,Substrate
+Chlorpheniramine,drug,CYP3A4,Substrate
+Cilostazol,drug,CYP3A4,Substrate
+Cisapride,drug,CYP3A4,Substrate
+Citalopram,drug,CYP3A4,Substrate
+Clarithromycin,drug,CYP3A4,Substrate
+Clopidogrel,drug,CYP3A4,Substrate
+Cobimetinib,drug,CYP3A4,Substrate
+Cocaine,drug,CYP3A4,Substrate
+Codeine,drug,CYP3A4,Substrate
+Codeine-n-demethylation,drug,CYP3A4,Substrate
+Copanlisib,drug,CYP3A4,Substrate
+Cyclosporine,drug,CYP3A4,Substrate
+Daclatasvir,drug,CYP3A4,Substrate
+Dapsone,drug,CYP3A4,Substrate
+Deflazacort,drug,CYP3A4,Substrate
+Dexamethasone,drug,CYP3A4,Substrate
+Dextromethorphan,drug,CYP3A4,Substrate
+Diazepam,drug,CYP3A4,Substrate
+Diltiazem,drug,CYP3A4,Substrate
+Docetaxel,drug,CYP3A4,Substrate
+Domperidone,drug,CYP3A4,Substrate
+Doxepin,drug,CYP3A4,Substrate
+Efavirenz,drug,CYP3A4,Substrate
+Elbasvir,drug,CYP3A4,Substrate
+Eliglustat,drug,CYP3A4,Substrate
+Eplerenone,drug,CYP3A4,Substrate
+Erythromycin,drug,CYP3A4,Substrate
+Escitalopram,drug,CYP3A4,Substrate
+Esomeprazole,drug,CYP3A4,Substrate
+Estradiol,drug,CYP3A4,Substrate
+Felodipine,drug,CYP3A4,Substrate
+Fentanyl,drug,CYP3A4,Substrate
+Finasteride,drug,CYP3A4,Substrate
+Flibanserin,drug,CYP3A4,Substrate
+Gleevec,drug,CYP3A4,Substrate
+Haloperidol,drug,CYP3A4,Substrate
+Hydrocortisone,drug,CYP3A4,Substrate
+Ibrutinib,drug,CYP3A4,Substrate
+Idelalisib,drug,CYP3A4,Substrate
+Indinavir,drug,CYP3A4,Substrate
+Irinotecan,drug,CYP3A4,Substrate
+Isavuconazoniun sulfate,drug,CYP3A4,Substrate
+Ivabradine,drug,CYP3A4,Substrate
+Laam,drug,CYP3A4,Substrate
+Lansoprazole,drug,CYP3A4,Substrate
+Lenvatinib,drug,CYP3A4,Substrate
+Lercanidipine,drug,CYP3A4,Substrate
+Lidocaine,drug,CYP3A4,Substrate
+Lovastatin,drug,CYP3A4,Substrate
+Methadone,drug,CYP3A4,Substrate
+Midazolam,drug,CYP3A4,Substrate
+Naldemedine,drug,CYP3A4,Substrate
+Naloxegol,drug,CYP3A4,Substrate
+Nateglinide,drug,CYP3A4,Substrate
+Nelfinavir,drug,CYP3A4,Substrate
+Neratinib,drug,CYP3A4,Substrate
+Netupitant,drug,CYP3A4,Substrate
+Nevirapine,drug,CYP3A4,Substrate
+Nifedipine,drug,CYP3A4,Substrate
+Nisoldipine,drug,CYP3A4,Substrate
+Nitrendipine,drug,CYP3A4,Substrate
+Azithromycine,drug,CYP3A4,Substrate
+Pravastatin,drug,CYP3A4,Substrate
+Rosuvastatin,drug,CYP3A4,Substrate
+Olaparib,drug,CYP3A4,Substrate
+Omeprazole,drug,CYP3A4,Substrate
+Ondansatran,drug,CYP3A4,Substrate
+Osimertinib,drug,CYP3A4,Substrate
+Palbociclib,drug,CYP3A4,Substrate
+Panobinostat,drug,CYP3A4,Substrate
+Pantoprazole,drug,CYP3A4,Substrate
+Primavanserin,drug,CYP3A4,Substrate
+Pimozide,drug,CYP3A4,Substrate
+Progesterone,drug,CYP3A4,Substrate
+Propranolol,drug,CYP3A4,Substrate
+Quetiapine,drug,CYP3A4,Substrate
+Quinidine,drug,CYP3A4,Substrate
+Quinine,drug,CYP3A4,Substrate
+Regorafenib,drug,CYP3A4,Substrate
+Ribociclib,drug,CYP3A4,Substrate
+Risperidone,drug,CYP3A4,Substrate
+Ritonavir,drug,CYP3A4,Substrate
+Rolapitant,drug,CYP3A4,Substrate
+Romidepsin,drug,CYP3A4,Substrate
+Salmeterol,drug,CYP3A4,Substrate
+Saquinavir,drug,CYP3A4,Substrate
+Selexipag,drug,CYP3A4,Substrate
+Sildenafil,drug,CYP3A4,Substrate
+Simvastatin,drug,CYP3A4,Substrate
+Sirolimus,drug,CYP3A4,Substrate
+Sonidegip,drug,CYP3A4,Substrate
+Sorafenib,drug,CYP3A4,Substrate
+Sunitinib,drug,CYP3A4,Substrate
+Suvorexant,drug,CYP3A4,Substrate
+Tacrolimus,drug,CYP3A4,Substrate
+Tamoxifen,drug,CYP3A4,Substrate
+Taxol,drug,CYP3A4,Substrate
+Telaprevir,drug,CYP3A4,Substrate
+Telithromycin,drug,CYP3A4,Substrate
+Terfenadine,drug,CYP3A4,Substrate
+Testosterone,drug,CYP3A4,Substrate
+Torisel,drug,CYP3A4,Substrate
+Tramadol,drug,CYP3A4,Substrate
+Trazodone,drug,CYP3A4,Substrate
+Valbenazine,drug,CYP3A4,Substrate
+Velpatasvir,drug,CYP3A4,Substrate
+Vemurafenib,drug,CYP3A4,Substrate
+Venetoclax,drug,CYP3A4,Substrate
+Venlafaxine,drug,CYP3A4,Substrate
+Verapamil,drug,CYP3A4,Substrate
+Vincristine,drug,CYP3A4,Substrate
+Voriconazole,drug,CYP3A4,Substrate
+Zaleplon,drug,CYP3A4,Substrate
+Ziprasidone,drug,CYP3A4,Substrate
+Zolpidem,drug,CYP3A4,Substrate
+Aprepitant,drug,CYP3A4,Inhibition
+Cimetidine,drug,CYP3A4,Inhibition
+Clarithromycin,drug,CYP3A4,Inhibition
+Diltiazem,drug,CYP3A4,Inhibition
+Erythromycin,drug,CYP3A4,Inhibition
+Fluconazole,drug,CYP3A4,Inhibition
+Grapefruit juice,food,CYP3A4,Inhibition
+Indinavir,drug,CYP3A4,Inhibition
+Itraconazole,drug,CYP3A4,Inhibition
+Ketoconazole,drug,CYP3A4,Inhibition
+Nefazodone,drug,CYP3A4,Inhibition
+Nelfinavir,drug,CYP3A4,Inhibition
+Ritonavir,drug,CYP3A4,Inhibition
+Saquinavir,drug,CYP3A4,Inhibition
+Amiodarone,drug,CYP3A4,Inhibition
+Atomoxetine,drug,CYP3A4,Inhibition
+Boceprevir,drug,CYP3A4,Inhibition
+Chloramphenicol,drug,CYP3A4,Inhibition
+Ciprofloxacin,drug,CYP3A4,Inhibition
+Delaviridine,drug,CYP3A4,Inhibition
+Diethyldithiocarbamate,drug,CYP3A4,Inhibition
+Esomeprazole,drug,CYP3A4,Inhibition
+Fluvoxamine,drug,CYP3A4,Inhibition
+Gestodene,drug,CYP3A4,Inhibition
+Idelalisib,drug,CYP3A4,Inhibition
+Imatinib,drug,CYP3A4,Inhibition
+Lesinurad,drug,CYP3A4,Inhibition
+Mibefradil,drug,CYP3A4,Inhibition
+Mifepristone,drug,CYP3A4,Inhibition
+Netupitant,drug,CYP3A4,Inhibition
+Norfloxacin,drug,CYP3A4,Inhibition
+Norfluoxetine,drug,CYP3A4,Inhibition
+Azithromycin,drug,CYP3A4,Inhibition
+Omeprazole,drug,CYP3A4,Inhibition
+Pantoprazole,drug,CYP3A4,Inhibition
+Regorafenib,drug,CYP3A4,Inhibition
+Ribociclib,drug,CYP3A4,Inhibition
+Starfruit,food,CYP3A4,Inhibition
+Telaprevir,drug,CYP3A4,Inhibition
+Telithromycin,drug,CYP3A4,Inhibition
+Verapamil,drug,CYP3A4,Inhibition
+Voriconazole,drug,CYP3A4,Inhibition
+Barbiturates,drug,CYP3A4,Inducer
+Brigatinib,drug,CYP3A4,Inducer
+Carbamazepine,drug,CYP3A4,Inducer
+Efavirenz,drug,CYP3A4,Inducer
+Enzalutamide,drug,CYP3A4,Inducer
+Glucocorticoids,drug,CYP3A4,Inducer
+Modafinil,drug,CYP3A4,Inducer
+Nevirapine,drug,CYP3A4,Inducer
+Oxcarazepine,drug,CYP3A4,Inducer
+Phenobarbital,drug,CYP3A4,Inducer
+Phenytoin,drug,CYP3A4,Inducer
+Pioglitazone,drug,CYP3A4,Inducer
+Rifabutin,drug,CYP3A4,Inducer
+Rifampin,drug,CYP3A4,Inducer
+St. John's wort,herb,CYP3A4,Inducer
+Troglitazone,drug,CYP3A4,Inducer
+Acetaminophen,drug,CYP1A2,Substrate
+Amitriptyline,drug,CYP1A2,Substrate
+Caffeine,drug,CYP1A2,Substrate
+Clomipramine,drug,CYP1A2,Substrate
+Clozapine,drug,CYP1A2,Substrate
+Cyclobenzaprine,drug,CYP1A2,Substrate
+Doxepin,drug,CYP1A2,Substrate
+Duloxetine,drug,CYP1A2,Substrate
+Estradiol,drug,CYP1A2,Substrate
+Fluvoxamine,drug,CYP1A2,Substrate
+Haloperidol,drug,CYP1A2,Substrate
+Imipramine n-deme,drug,CYP1A2,Substrate
+Mexiletine,drug,CYP1A2,Substrate
+Nabumetone,drug,CYP1A2,Substrate
+NAPQI,drug,CYP1A2,Substrate
+Naproxen,drug,CYP1A2,Substrate
+Olanzapine,drug,CYP1A2,Substrate
+Ondansetron,drug,CYP1A2,Substrate
+Phenacetin,drug,CYP1A2,Substrate
+Pirfenidone,drug,CYP1A2,Substrate
+Propranolol,drug,CYP1A2,Substrate
+Riluzole,drug,CYP1A2,Substrate
+Rucaparib,drug,CYP1A2,Substrate
+Tacrine,drug,CYP1A2,Substrate
+Theophylline,drug,CYP1A2,Substrate
+Tizanidine,drug,CYP1A2,Substrate
+Triamterene,drug,CYP1A2,Substrate
+Verapamil,drug,CYP1A2,Substrate
+Warfarin,drug,CYP1A2,Substrate
+Zileuton,drug,CYP1A2,Substrate
+Zolmitriptan,drug,CYP1A2,Substrate
+Carbamazepine,drug,CYP1A2,Inducer
+Lansoprazole,drug,CYP1A2,Inducer
+Montelukast,drug,CYP1A2,Inducer
+Moricizine,drug,CYP1A2,Inducer
+Omeprazole,drug,CYP1A2,Inducer
+Phenobarbital,drug,CYP1A2,Inducer
+Phenytoin,drug,CYP1A2,Inducer
+Quercetin,compound,CYP1A2,Inducer
+Rifampin,drug,CYP1A2,Inducer
+Ritonavir,drug,CYP1A2,Inducer
+Smoking (Tobacco),lifestyle,CYP1A2,Inducer
+Teriflunomide,drug,CYP1A2,Inducer
+b-naphthoflavone,compound,CYP1A2,Inducer
+Broccoli,food,CYP1A2,Inducer
+Brussel sprouts,food,CYP1A2,Inducer
+Carbamazepine,drug,CYP1A2,Inducer
+Chargrilled meat,food,CYP1A2,Inducer
+Insulin,hormone,CYP1A2,Inducer
+Methylcholanthrene,compound,CYP1A2,Inducer
+Modafinil,drug,CYP1A2,Inducer
+Nafcillin,drug,CYP1A2,Inducer
+Omeprazole,drug,CYP1A2,Inducer
+Rifampin,drug,CYP1A2,Inducer
+Rucaparib,drug,CYP1A2,Inducer
+Teriflunomide,drug,CYP1A2,Inducer
+Tobacco,lifestyle,CYP1A2,Inducer
+Amitriptyline,drug,CYP2C9,Substrate
+Capecitabine,drug,CYP2C9,Substrate
+Celecoxib,drug,CYP2C9,Substrate
+Diclofenac,drug,CYP2C9,Substrate
+Doxepin,drug,CYP2C9,Substrate
+Fluoxetine,drug,CYP2C9,Substrate
+Fluvastatin,drug,CYP2C9,Substrate
+Glibenclamide,drug,CYP2C9,Substrate
+Glimepiride,drug,CYP2C9,Substrate
+Glipizide,drug,CYP2C9,Substrate
+Glyburide,drug,CYP2C9,Substrate
+Ibuprofen,drug,CYP2C9,Substrate
+Irbesartan,drug,CYP2C9,Substrate
+Lesinurad,drug,CYP2C9,Substrate
+Lornoxicam,drug,CYP2C9,Substrate
+Losartan,drug,CYP2C9,Substrate
+Meloxicam,drug,CYP2C9,Substrate
+Nateglinide,drug,CYP2C9,Substrate
+Phenytoin,drug,CYP2C9,Substrate
+Piroxicam,drug,CYP2C9,Substrate
+Rosiglitazone,drug,CYP2C9,Substrate
+S-naproxen,drug,CYP2C9,Substrate
+S-warfarin,drug,CYP2C9,Substrate
+Suprofen,drug,CYP2C9,Substrate
+Tamoxifen,drug,CYP2C9,Substrate
+Tolbutamide,drug,CYP2C9,Substrate
+Torsemide,drug,CYP2C9,Substrate
+Valproic acid,drug,CYP2C9,Substrate
+Venlafaxine,drug,CYP2C9,Substrate
+Voriconazole,drug,CYP2C9,Substrate
+Zafirlukast,drug,CYP2C9,Substrate
+Amiodarone,drug,CYP2C9,Inhibition
+Capecitabine,drug,CYP2C9,Inhibition
+Clopidogrel,drug,CYP2C9,Inhibition
+Crisaborole,drug,CYP2C9,Inhibition
+Efavirenz,drug,CYP2C9,Inhibition
+Fenofibrate,drug,CYP2C9,Inhibition
+Fluconazole,drug,CYP2C9,Inhibition
+Fluvastatin,drug,CYP2C9,Inhibition
+Fluvoxamine,drug,CYP2C9,Inhibition
+Isoniazid,drug,CYP2C9,Inhibition
+Lovastatin,drug,CYP2C9,Inhibition
+Metronidazole,drug,CYP2C9,Inhibition
+Paroxetine,drug,CYP2C9,Inhibition
+Phenylbutazone,drug,CYP2C9,Inhibition
+Probenecid,drug,CYP2C9,Inhibition
+Rucaparib,drug,CYP2C9,Inhibition
+Sertraline,drug,CYP2C9,Inhibition
+Sulfamethoxazole,drug,CYP2C9,Inhibition
+Teniposide,drug,CYP2C9,Inhibition
+Voriconazole,drug,CYP2C9,Inhibition
+Zafirlukast,drug,CYP2C9,Inhibition
+Carbamazepine,drug,CYP2C9,Inducer
+Enzalutamide,drug,CYP2C9,Inducer
+Nevirapine,drug,CYP2C9,Inducer
+Phenobarbital,drug,CYP2C9,Inducer
+Rifampin,drug,CYP2C9,Inducer
+Secobarbital,drug,CYP2C9,Inducer
+St. John's wort,herb,CYP2C9,Inducer
+Garlic ,compound,CYP1A1/2,Inducer
+Piperine (Black Pepper),compound,CYP1A1/2,Inducer
+Quercetin / Flavonoids,compound,CYP1A1/2,Inducer
+$\alpha$-Hederin,compound,CYP1A1/2,Inhibition
+Oleanolic acid,compound,CYP1A1/2,Inhibition
+Green/Black Tea Extract,herb,CYP1A1/2,Inducer
+Ellagic acid,compound,CYP1A1/2,No Effect
+Rutaecarpine,compound,CYP1A1/2,Inducer
+Emodin,compound,CYP1B1,Inducer
+Garlic ,compound,CYP2B1/2,Inducer
+Piperine,compound,CYP2B1/2,Inducer
+St. John’s Wort (Hyperforin),herb,CYP2B6,Inducer
+Garlic ,compound,CYP2E1,Antagonist
+Piperine,compound,CYP2E1,Agonist
+Ginseng extract (total saponins),herb,CYP2E1,NE
+$\alpha$-Hederin,compound,CYP2E1,NE
+Oleanolic acid,compound,CYP2E1,Antagonist
+"SJW (CME, hyperforin)",herb,CYP3A4,Agonist
+SJW (Hypericin),compound,CYP3A4,NE
+"Garlic (DAS, DAD, diallyl trisulfide)",compound,CYP3A4,Agonist
+Licorice extract (glycyrrhizin),herb,CYP3A4,Agonist
+Oleanolic acid,compound,CYP3A4,NE
+Ellagic acid,compound,CYP3A4,NE
+Rutaecarpine,compound,CYP3A4,NE
+Mangosteen,herb,CYP2C8,Inhibition
+Mangosteen,herb,CYP2C9,Inhibition
+Mangosteen,herb,CYP2C19,Inhibition
+Black cohosh,herb,CYP1A2,Inhibition
+Black cohosh,herb,CYP2D6,Inhibition
+Black cohosh,herb,CYP2C9,Inhibition
+Black cohosh,herb,CYP3A4,Inhibition
+Green tea (EGCG),compound,CYP2B6,Inhibition
+Green tea (EGCG),compound,CYP2C8,Inhibition
+Green tea (EGCG),compound,CYP2C19,Inhibition
+Green tea (EGCG),compound,CYP2D6,Inhibition
+Green tea (EGCG),compound,CYP3A4,Inhibition
+Menthol (Menthofuran),compound,CYP2A6,Inhibition
+Menthol (Menthofuran),compound,CYP2A13,Inhibition
+Garcinia jasminoides (Genipin),compound,CYP2C19,Inhibition
+Garcinia jasminoides (Genipin),compound,CYP3A4,Inhibition
+Garlic (Garlic oil),compound,CYP2E1,Inhibition
+Garlic,herb,CYP1A2,Inhibition
+Garlic (Retrorsine),compound,CYP3A4,Inhibition
+Grapefruit (Bergamottin),compound,CYP3A4,Inhibition
+Saw palmetto,herb,CYP2C8,Inhibition
+Echinacea purpura,herb,CYP3A4,Inhibition
+Echinacea purpura,herb,CYP1A2,Inhibition
+Marslinic/Ursolic acid,compound,CYP3A4,Inhibition
+Cranberry,herb,CYP1A2,Inhibition
+Cranberry,herb,CYP2D6,Inhibition
+Milk thistle (Silybin),compound,CYP3A4,Inhibition
+Tomato,food,CYP3A4,Inhibition
+Capsicum,food,CYP3A4,Inhibition
+Potato,food,CYP1A2,Inhibition
+Potato,food,CYP2D6,Inhibition
+Potato,food,CYP3A4,Inhibition
+Eggplant,food,CYP1A2,Inhibition
+Eggplant,food,CYP2D6,Inhibition
+Eggplant,food,CYP3A4,Inhibition
+Sweet pepper,food,CYP1A2,Inhibition
+Sweet pepper,food,CYP2D6,Inhibition
+Sweet pepper,food,CYP3A4,Inhibition
+Black elderberry,herb,CYP1A2,Inhibition
+Black elderberry,herb,CYP2D6,Inhibition
+Black elderberry,herb,CYP3A4,Inhibition
+Fennel,herb,CYP1A2,Inhibition
+Fennel,herb,CYP2D6,Inhibition
+Fennel,herb,CYP3A4,Inhibition
+Horsetail,herb,CYP1A2,Inhibition
+Horsetail,herb,CYP2D6,Inhibition
+Horsetail,herb,CYP3A4,Inhibition
+Raspberry leaf,herb,CYP1A2,Inhibition
+Raspberry leaf,herb,CYP2D6,Inhibition
+Raspberry leaf,herb,CYP3A4,Inhibition
+Cinnamon (o-methoxy cinnamaldehyde),compound,CYP1A2,Inhibition
+Cinnamon (o-methoxy cinnamaldehyde),compound,CYP2E1,Inhibition
+Cinnamon,herb,CYP2C9,Inhibition
+Cinnamon,herb,CYP3A4,Inhibition
+Ginger,herb,CYP2C9,Inhibition
+Ginger,herb,CYP3A4,Inhibition
+Mace,herb,CYP2C9,Inhibition
+Mace,herb,CYP3A4,Inhibition
+Nutmeg,herb,CYP2C9,Inhibition
+Nutmeg,herb,CYP3A4,Inhibition
+Valerian,herb,CYP2C8,Inhibition
+Ajmalicine,compound,CYP2D6,Inhibition
+Vindolene,compound,CYP2D6,Inhibition
+Vindolene,compound,CYP3A4,Inhibition
+Serpentine,compound,CYP2D6,Inhibition
+Serpentine,compound,CYP3A4,Inhibition
+Sutherlandia frutescens,herb,CYP3A4,Inhibition
+Moringa oleifera,herb,CYP3A4,Inhibition
+Aframomum cuspidatum,herb,CYP3A4,Inhibition
+Aframomum cuspidatum,herb,CYP3A5,Inhibition
+Aframomum cuspidatum,herb,CYP3A7,Inhibition
+Aframomum meliguieta,herb,CYP3A4,Inhibition
+Aframomum meliguieta,herb,CYP3A5,Inhibition
+Aframomum meliguieta,herb,CYP3A7,Inhibition
+Harrisonia abyssinica,herb,CYP3A4,Inhibition
+Harrisonia abyssinica,herb,CYP3A5,Inhibition
+Harrisonia abyssinica,herb,CYP3A7,Inhibition
+Phyllanthus amarus,herb,CYP3A4,Inhibition
+Phyllanthus amarus,herb,CYP3A5,Inhibition
+Phyllanthus amarus,herb,CYP3A7,Inhibition
+Piper guineense,herb,CYP3A4,Inhibition
+Piper guineense,herb,CYP3A5,Inhibition
+Piper guineense,herb,CYP3A7,Inhibition
+Lonchocarpus sericeus,herb,CYP3A4,Inhibition
+Lonchocarpus sericeus,herb,CYP3A5,Inhibition
+Lonchocarpus sericeus,herb,CYP3A7,Inhibition
+Lipia multiflora,herb,CYP3A4,Inhibition
+Lipia multiflora,herb,CYP3A5,Inhibition
+Lipia multiflora,herb,CYP3A7,Inhibition
+Jutropha curcas,herb,CYP3A4,Inhibition
+Jutropha curcas,herb,CYP3A7,Inhibition
+Persia Americana (Avocado),herb,CYP3A4,Inhibition
+Persia Americana (Avocado),herb,CYP3A7,Inhibition
+Oxytenanthera abyssinica,herb,CYP3A4,Inhibition
+Oxytenanthera abyssinica,herb,CYP3A7,Inhibition
+Talinum triangulare,herb,CYP3A4,Inhibition
+Talinum triangulare,herb,CYP3A7,Inhibition
+Cyphostemma ildebrandtii,herb,CYP2C9,Inhibition
+Cyphostemma ildebrandtii,herb,CYP2C19,Inhibition
+Cyphostemma ildebrandtii,herb,CYP3A4,Inhibition
+Acacia nilotica,herb,CYP2C9,Inhibition
+Acacia nilotica,herb,CYP2C19,Inhibition
+Acacia nilotica,herb,CYP2D6,Inhibition
+Acacia nilotica,herb,CYP3A4,Inhibition
+Acacia robusta,herb,CYP2C9,Inhibition
+Acacia robusta,herb,CYP2C19,Inhibition
+Acacia robusta,herb,CYP3A4,Inhibition
+Agauria salicifolia,herb,CYP2C9,Inhibition
+Agauria salicifolia,herb,CYP2C19,Inhibition
+Agauria salicifolia,herb,CYP3A4,Inhibition
+Elaeodendron buchananii,herb,CYP2C9,Inhibition
+Elaeodendron buchananii,herb,CYP3A4,Inhibition
+Sclerocarya birrea,herb,CYP2C9,Inhibition
+Sclerocarya birrea,herb,CYP3A4,Inhibition
+Peppermint oil,herb,CYP3A4,Inhibition
+Menthyl acetate,compound,CYP3A4,Inhibition
+Ascorbyl palmitate,compound,CYP3A4,Inhibition
+Sesamin,compound,CYP1A2,Inhibition
+Sesamin,compound,CYP2C9,Inhibition
+Sesamin,compound,CYP2C19,Inhibition
+Sesamin,compound,CYP2D6,Inhibition
+Sesamin,compound,CYP3A4,Inhibition
+Turmeric (Curcuma longa),herb,CYP2C9,Inhibition
+Turmeric (Curcuma longa),herb,CYP2C19,Inhibition
+Turmeric (Curcuma longa),herb,CYP2D6,Inhibition
+Turmeric (Curcuma longa),herb,CYP3A4,Inhibition
+St. John’s Wort,herb,CYP1A2,Inhibition
+St. John’s Wort,herb,CYP2C9,Inhibition
+St. John’s Wort,herb,CYP3A4,Inhibition
+Vernonia amygdalina (M),herb,CYP1A2,Inhibition
+Vernonia amygdalina (M),herb,CYP2C8,Potent Inhibitor
+Vernonia amygdalina (M),herb,CYP2C9,Inhibitor
+Vernonia amygdalina (M),herb,CYP2C19,Inhibitor
+Vernonia amygdalina (M),herb,CYP2D6,Inhibitor
+Vernonia amygdalina (M),herb,CYP3A4,Inhibitor
+Ocimum gratissimum (M),herb,CYP1A2,Potent Inhibitor
+Ocimum gratissimum (M),herb,CYP2C8,Potent Inhibitor
+Ocimum gratissimum (M),herb,CYP2C9,Potent Inhibitor
+Ocimum gratissimum (M),herb,CYP2C19,Potent Inhibitor
+Ocimum gratissimum (M),herb,CYP2D6,Inhibition
+Ocimum gratissimum (M),herb,CYP3A4,Inhibition
+Moringa oleifera (M),herb,CYP1A2,Inhibition
+Moringa oleifera (M),herb,CYP2C8,Inhibition
+Moringa oleifera (M),herb,CYP2C9,Inhibition
+Moringa oleifera (M),herb,CYP2C19,Inhibition
+Moringa oleifera (M),herb,CYP2D6,Inhibition
+Moringa oleifera (M),herb,CYP3A4,Inhibition
+Picralima nitida (M),herb,CYP1A2,Inhibition
+Picralima nitida (M),herb,CYP2C8,Inhibitor
+Picralima nitida (M),herb,CYP2C9,Inhibitor
+Picralima nitida (M),herb,CYP2C19,Inhibitor
+Picralima nitida (M),herb,CYP2D6,Potent Inhibitor
+Picralima nitida (M),herb,CYP3A4,Inhibitor
+Azadirachta indica (M),herb,CYP1A2,Inhibitor
+Azadirachta indica (M),herb,CYP2C8,Potent Inhibitor
+Azadirachta indica (M),herb,CYP2C9,Potent Inhibitor
+Azadirachta indica (M),herb,CYP2C19,Inhibitor
+Azadirachta indica (M),herb,CYP2D6,Inhibitor
+Azadirachta indica (M),herb,CYP3A4,Potent Inhibitor
+Vernonia amygdalina (A),herb,CYP1A2,Inhibition
+Vernonia amygdalina (A),herb,CYP2C8,Inhibition
+Vernonia amygdalina (A),herb,CYP2C9,Inhibition
+Vernonia amygdalina (A),herb,CYP2C19,Inhibition
+Vernonia amygdalina (A),herb,CYP2D6,Inhibition
+Vernonia amygdalina (A),herb,CYP3A4,Inhibition
+Ocimum gratissimum (A),herb,CYP1A2,Inhibition
+Ocimum gratissimum (A),herb,CYP2C8,Inhibition
+Ocimum gratissimum (A),herb,CYP2C9,Inhibition
+Ocimum gratissimum (A),herb,CYP2C19,Inhibition
+Ocimum gratissimum (A),herb,CYP2D6,Inhibition
+Ocimum gratissimum (A),herb,CYP3A4,Inhibition
+Moringa oleifera (A),herb,CYP1A2,Inhibition
+Moringa oleifera (A),herb,CYP2C8,Inhibition
+Moringa oleifera (A),herb,CYP2C9,Inhibition
+Moringa oleifera (A),herb,CYP2C19,Inhibition
+Moringa oleifera (A),herb,CYP2D6,Inhibition
+Moringa oleifera (A),herb,CYP3A4,Inhibition
+Picralima nitida (A),herb,CYP1A2,Inhibitor
+Picralima nitida (A),herb,CYP2C8,Inhibitor
+Picralima nitida (A),herb,CYP2C9,Inhibitor
+Picralima nitida (A),herb,CYP2C19,Inhibitor
+Picralima nitida (A),herb,CYP2D6,Potent Inhibitor
+Picralima nitida (A),herb,CYP3A4,Inhibition
+Azadirachta indica (A),herb,CYP1A2,Inhibition
+Azadirachta indica (A),herb,CYP2C8,Inhibition
+Azadirachta indica (A),herb,CYP2C9,Inhibition
+Azadirachta indica (A),herb,CYP2C19,Inhibition
+Azadirachta indica (A),herb,CYP2D6,Inhibition
+Azadirachta indica (A),herb,CYP3A4,Inhibition
+Ginkgo extract,herb,CYP1A1,Inhibition
+Ginkgo extract,herb,CYP1A2,Inhibition
+Ginkgo extract,herb,CYP2B1,Inducer
+Ginkgo extract,herb,CYP2B2,Inducer
+Ginkgo extract,herb,CYP2C11,NE
+Ginkgo extract,herb,CYP2E1,NE
+Ginkgo extract,herb,CYP3A1,Inducer
+Ginkgo extract,herb,CYP3A2,Inducer
+Ginkgo extract,herb,CYP4A1,NE
+Ginkgo extract,herb,CYP1A2,Inducer
+Ginkgo extract,herb,CYP1A2,Inhibitor
+Ginkgo extract,herb,CYP2C9,Inhibitor
+Ginkgo extract,herb,CYP2E1,Inhibitor
+Ginkgo extract,herb,CYP3A4,Inducer
+Ginkgo extract,herb,P-gp,Inhibitor
+Ginkgolides,compound,CYP1A2,NE
+Ginkgolides,compound,CYP2C9,NE
+Ginkgolide A,compound,CYP3A4,Inducer
+Licorice extract,herb,CYP3A,Inducer
+Licorice extract,herb,CYP1A2,Inducer
+Licorice extract,herb,CYP2B1,Inducer
+Glycyrrhizin,compound,CYP3A4,Inducer
+Glycyrrhetinic acid,compound,P-gp,Inhibitor
+Ginger extract,herb,CYP2C9,Inhibitor
+Ginger extract,herb,CYP3A4,Inhibitor
+Ginger extract,herb,CYP2C19,Inhibitor
+6-gingerol,compound,P-gp,Inhibitor
+6-gingerol,compound,CYP1A2,NE
+6-gingerol,compound,CYP2C9,NE
+6-gingerol,compound,CYP2D6,NE
+6-gingerol,compound,CYP3A4,NE
+Piperine,compound,CYP1A,Inducer
+Piperine,compound,CYP2B,Inducer
+Piperine,compound,CYP2E1,Inhibitor
+Piperine,compound,CYP3A4,Inhibitor
+Piperine,compound,P-gp,Inhibitor
+Piperine,compound,Gastric Emptying,Inhibitor
+Piperine,compound,GI Transit,Inhibitor
+Rosemary extract,herb,CYP1A1,NE
+Rosemary extract,herb,CYP1A2,NE
+Rosemary extract,herb,CYP2B1,Inducer
+Rosemary extract,herb,CYP2B2,Inducer
+Rosemary extract,herb,P-gp,Inhibitor
+Rosmarinic acid,compound,CYP1A,Inducer
+Rosmarinic acid,compound,CYP2B,Inducer
+Rosmarinic acid,compound,CYP3A,Inducer
+Rosmarinic acid,compound,CYP2C9,NE
+Rosmarinic acid,compound,CYP2D6,NE
+Rosmarinic acid,compound,CYP3A4,Inhibitor
+Rosmarinic acid,compound,P-gp,Inhibitor
+Ginseng ,herb,CYP1A1,Inhibitor
+Ginseng ,herb,CYP1A2,Inhibitor
+Ginseng ,herb,CYP1B1,Inhibitor
+Ginseng ,herb,CYP2E1,Inhibitor
+Ginseng ,herb,CYP1A2,NE
+Ginseng ,herb,CYP2B1,NE
+Ginseng ,herb,CYP3A23,NE
+Ginsenoside ,compound,CYP2C9,Inhibitor
+Ginsenoside ,compound,CYP2C19,Inhibitor
+Ginsenoside ,compound,CYP2D6,Inhibitor
+Ginsenoside ,compound,CYP3A4,Inhibitor
+Ginsenoside ,compound,CYP2C9,Inducer
+Ginsenoside ,compound,CYP3A4,Inducer
+Ginsenoside ,compound,CYP2C9,Inducer
+Ginsenoside ,compound,CYP3A4,Inducer
+Ginsenoside ,compound,P-gp,Inhibitor
+Alstonia boonei,herb,CYP2D6,Significant Inhibitor
+Alstonia boonei,herb,CYP1A2,Inhibitor
+Alstonia boonei,herb,CYP2A6,Inhibitor
+Alstonia boonei,herb,CYP2B6,Inhibitor
+Alstonia boonei,herb,CYP2C8,Inhibitor
+Alstonia boonei,herb,CYP2C9,Inhibitor
+Alstonia boonei,herb,CYP2C19,Inhibitor
+Alstonia boonei,herb,CYP3A4,Inhibitor
+Mangifera indica,herb,CYP1A2,Significant Inhibitor
+Mangifera indica,herb,CYP2B6,Significant Inhibitor
+Mangifera indica,herb,CYP2C8,Significant Inhibitor
+Mangifera indica,herb,CYP2C9,Significant Inhibitor
+Mangifera indica,herb,CYP2C19,Significant Inhibitor
+Mangifera indica,herb,CYP2D6,Significant Inhibitor
+Mangifera indica,herb,CYP3A4,Significant Inhibitor
+Mangifera indica,herb,CYP2A6,Inhibitor
+Musa sapientum,herb,CYP1A2,Inhibitor
+Musa sapientum,herb,CYP2A6,Inhibitor
+Musa sapientum,herb,CYP2B6,Inhibitor
+Musa sapientum,herb,CYP2C8,Inhibitor
+Musa sapientum,herb,CYP2C9,Inhibitor
+Musa sapientum,herb,CYP2C19,Inhibitor
+Musa sapientum,herb,CYP2D6,Inhibitor
+Musa sapientum,herb,CYP3A4,Inhibitor
+Allium sativum,herb,CYP1A2,Inhibitor
+Allium sativum,herb,CYP2A6,Inhibitor
+Allium sativum,herb,CYP2B6,Inhibitor
+Allium sativum,herb,CYP2C8,Inhibitor
+Allium sativum,herb,CYP2C9,Inhibitor
+Allium sativum,herb,CYP2C19,Inhibitor
+Allium sativum,herb,CYP2D6,Inhibitor
+Allium sativum,herb,CYP3A4,Inhibitor
+Tetracarpidium conophorum,herb,CYP1A2,Inhibitor
+Tetracarpidium conophorum,herb,CYP2A6,Inhibitor
+Tetracarpidium conophorum,herb,CYP2B6,Inhibitor
+Tetracarpidium conophorum,herb,CYP2C19,Inhibitor
+Tetracarpidium conophorum,herb,CYP2D6,Inhibitor
+Tetracarpidium conophorum,herb,CYP3A4,Inhibitor
+Gongronema latifolium,herb,CYP1A2,Inhibitor
+Gongronema latifolium,herb,CYP2A6,Inhibitor
+Gongronema latifolium,herb,CYP2B6,Inhibitor
+Gongronema latifolium,herb,CYP2C8,Inhibitor
+Gongronema latifolium,herb,CYP2C9,Inhibitor
+Gongronema latifolium,herb,CYP2C19,Inhibitor
+Gongronema latifolium,herb,CYP2D6,Inhibitor
+Gongronema latifolium,herb,CYP3A4,Inhibitor
+Bauhinia monandra,herb,CYP1A2,Inhibitor
+Bauhinia monandra,herb,CYP2A6,Inhibitor
+Bauhinia monandra,herb,CYP2B6,Inhibitor
+Bauhinia monandra,herb,CYP2C8,Inhibitor
+Bauhinia monandra,herb,CYP2C9,Inhibitor
+Bauhinia monandra,herb,CYP2C19,Inhibitor
+Bauhinia monandra,herb,CYP2D6,Inhibitor
+Bauhinia monandra,herb,CYP3A4,Inhibitor
+Moringa oleifera,herb,CYP1A2,Inhibitor
+Moringa oleifera,herb,CYP2A6,Inhibitor
+Moringa oleifera,herb,CYP2B6,Inhibitor
+Moringa oleifera,herb,CYP2C8,Inhibitor
+Moringa oleifera,herb,CYP2C9,Inhibitor
+Moringa oleifera,herb,CYP2C19,Inhibitor
+Moringa oleifera,herb,CYP2D6,Inhibitor
+Moringa oleifera,herb,CYP3A4,Inhibitor
+Picralima nitida,herb,CYP2C19,Significant Inhibitor
+Picralima nitida,herb,CYP2D6,Significant Inhibitor
+Picralima nitida,herb,CYP3A4,Significant Inhibitor
+Picralima nitida,herb,CYP1A2,Inhibitor
+Picralima nitida,herb,CYP2A6,Inhibitor
+Picralima nitida,herb,CYP2B6,Inhibitor
+Picralima nitida,herb,CYP2C8,Inhibitor
+Picralima nitida,herb,CYP2C9,Inhibitor
+Grape seed extract,herb,CYP1A1,Inhibitor
+Grape seed extract,herb,CYP1B1,Inhibitor
+Grape seed extract,herb,CYP3A4,Inhibitor
+Red wine solids,compound,CYP3A4,Inhibitor
+Red wine solids,compound,CYP2E1,Inhibitor
+Resveratrol,compound,CYP1A2,Inducer
+Resveratrol,compound,CYP2C9,Inhibitor
+Resveratrol,compound,CYP2D6,Inhibitor
+Resveratrol,compound,CYP3A4,Inhibitor
+Resveratrol,compound,CYP2E1,Inhibitor
+Salvia miltiorrhiza ,herb,CYP1A2,NE
+Salvia miltiorrhiza ,herb,CYP2C9,NE
+Salvia miltiorrhiza ,herb,CYP3A4,NE
+Salvia miltiorrhiza ,herb,CYP1A2,Inducer
+Salvia miltiorrhiza ,herb,CYP2C9,Inducer
+Salvia miltiorrhiza ,herb,CYP2C19,Inducer
+Salvia miltiorrhiza ,herb,CYP3A4,Inducer
+Salvia miltiorrhiza ,herb,NADPH-reductase,Inducer
+Kokum ,herb,CYP1A2,Significant Inhibitor
+Kokum ,herb,CYP2B6,Significant Inhibitor
+Kokum ,herb,CYP2C9,Significant Inhibitor
+Kokum ,herb,CYP2D6,Significant Inhibitor
+Kokum ,herb,CYP3A4,Significant Inhibitor
+Kokum ,herb,CYP2C19,Inhibitor
+Kokum ,herb,CYP2E1,Inhibitor
+Kokum ,herb,CYP2C8,NE
+Echinacea purpurea,herb,CYP2D6,NE
+Echinacea purpurea,herb,CYP3A4,Inhibitor
+Echinacea purpurea,herb,CYP2C9,Inhibitor
+Serenoa repens ,herb,CYP2D6,Significant Inhibitor
+Serenoa repens ,herb,CYP3A4,Significant Inhibitor
+Serenoa repens ,herb,CYP2C9,Significant Inhibitor
+Common valerian ,herb,CYP1A2,Inhibitor
+Common valerian ,herb,CYP2D6,Inducer
+Common valerian ,herb,CYP3A4,Inducer
+St. John’s wort ,herb,CYP3A4,Inducer
+St. John’s wort ,herb,CYP1A2,Inducer
+St. John’s wort ,herb,CYP1A2,Significant Inhibitor
+St. John’s wort ,herb,CYP2D6,Significant Inhibitor
+Echinacea purpurea,herb,CYP1A2,Significant Inhibitor
+Echinacea purpurea,herb,CYP2D6,Significant Inhibitor
+Echinacea purpurea,herb,CYP3A4,Significant Inhibitor
+Common sage,herb,CYP1A2,Inhibitor
+Common sage,herb,CYP2D6,Inhibitor
+Common sage,herb,CYP3A4,Inhibitor
+Ginkgo biloba,herb,CYP1A2,Inducer
+Ginkgo biloba,herb,CYP1A2,Inhibitor
+Ginkgo biloba,herb,CYP2D6,Inhibitor
+Ginkgo biloba,herb,CYP2D6,Inducer
+Ginkgo biloba,herb,CYP3A4,Inhibitor
+Rifampicin,drug,CYP3A4,Potent Inducer
+Omeprazole,drug,CYP1A2,Potent Inducer
+St. John’s Wort,herb,P-gp,Inducer
+Milk Thistle,herb,P-gp,Inducer
+Ginseng,herb,P-gp,Inhibitor
+Schisandra,herb,P-gp,Inhibitor
+Turmeric,herb,P-gp,Inhibitor
+Magnolia Vine,herb,P-gp,Inhibitor
+Stephania,herb,P-gp,Inhibitor
+Chinese Rhubarb,herb,P-gp,Inhibitor
+Diltiazem,drug,CYP3A4,Inhibitor
+Amiodarone,drug,CYP1A1,Inhibitor
+Amiodarone,drug,CYP1A2,Inhibitor
+Amiodarone,drug,CYP2B6,Inhibitor
+Amiodarone,drug,CYP2D6,Inhibitor
+Propranolol,drug,CYP2D,Inhibitor
+Metoprolol,drug,CYP2D6,Inhibitor
+Warfarin,drug,CYP2C9,Inhibitor
+Sarpogrelate,drug,CYP2D6,Inhibitor
+Gemfibrozil,drug,CYP2C8,Inhibitor
+Tanespimycin,drug,CYP3A4,Inhibitor
+Tanespimycin,drug,CYP3A5,Inhibitor
+Tanespimycin,drug,CYP2C19,Inhibitor
+Sertraline,drug,CYP2D6,Inhibitor
+Paroxetine,drug,CYP2D6,Inhibitor
+Fluoxetine,drug,CYP2D6,Inhibitor
+Fluoxetine,drug,CYP2C19,Inhibitor
+Fluoxetine,drug,CYP3A4,Inhibitor
+Bupropion,drug,CYP2D6,Inhibitor
+Itraconazole,drug,CYP3A4,Inhibitor
+Voriconazole,drug,CYP2C9,Inhibitor
+Voriconazole,drug,CYP3A4,Inhibitor
+Clozapine,drug,CYP2B6,Inhibitor
+Clozapine,drug,CYP2C19,Inhibitor
+Amiodarone,drug,CYP1A2,Inhibitor
+Amiodarone,drug,CYP2C9,Inhibitor
+Amiodarone,drug,CYP2D6,Inhibitor
+Amiodarone,drug,CYP3A4,Inhibitor
+Cimetidine,drug,CYP1A2,Inhibitor
+Cimetidine,drug,CYP2C19,Inhibitor
+Cimetidine,drug,CYP3A4,Inhibitor
+Fluvoxamine,drug,CYP1A2,Inhibitor
+Fluvoxamine,drug,CYP2C9,Inhibitor
+Fluvoxamine,drug,CYP2C19,Inhibitor
+Fluvoxamine,drug,CYP3A4,Inhibitor
+Fluoxetine,drug,CYP2C9,Inhibitor
+Fluoxetine,drug,CYP2D6,Inhibitor
+Paroxetine,drug,CYP2D6,Inhibitor
+Quinidine,drug,CYP2D6,Inhibitor
+Ketoconazole,drug,CYP2C9,Inhibitor
+Ketoconazole,drug,CYP3A4,Inhibitor
+Itraconazole,drug,CYP3A4,Inhibitor
+Clarithromycin,drug,CYP3A4,Inhibitor
+Erythromycin,drug,CYP3A4,Inhibitor
+Ritonavir,drug,CYP2D6,Inhibitor
+Ritonavir,drug,CYP3A4,Inhibitor
+Voriconazole,drug,CYP2C9,Inhibitor
+Voriconazole,drug,CYP2C19,Inhibitor
+Voriconazole,drug,CYP3A4,Inhibitor
+Grapefruit juice,herb,CYP3A4,Inhibitor
+Starfruit,herb,CYP3A4,Inhibitor
+Omeprazole,drug,CYP2C19,Inhibitor
+Omeprazole,drug,CYP3A4,Inhibitor
+Esomeprazole,drug,CYP2C19,Inhibitor
+Esomeprazole,drug,CYP3A4,Inhibitor
+Ticlopidine,drug,CYP2C19,Inhibitor
+Ticlopidine,drug,CYP2D6,Inhibitor
+Achyrocline tomentosa,herb,Cholinesterase,Inhibitor
+Salvia officinalis,herb,Cholinesterase,Inhibitor
+Moringa oleifera,herb,Monoamines,Modulator
+Moringa oleifera,herb,Oxidative Stress,Antioxidant
+Ginkgo biloba,herb,Amyloid Aggregation,Anti-amyloid
+Ginkgo biloba,herb,Oxidative Stress,Antioxidant
+Curcuma longa,herb,Amyloid Aggregation,Anti-amyloid
+Curcuma longa,herb,Apoptosis,Anti-apoptotic
+Curcuma longa,herb,Neuroinflammation,Anti-inflammatory
+Bacopa monniera,herb,Apoptosis,Anti-apoptotic
+Bacopa monniera,herb,Neuronal Health,Neuroprotective
+Centella asiatica,herb,Apoptosis,Anti-apoptotic
+Centella asiatica,herb,Neuroinflammation,Anti-inflammatory
+Tinospora cordifolia,herb,Neuroinflammation,Anti-inflammatory
+Emblica officinalis,herb,Neuroinflammation,Anti-inflammatory
+Withania somnifera,herb,Neuroinflammation,Anti-inflammatory
+Glycyrrhiza glabra,herb,Phosphodiesterase (Lignans),Inhibitor
+Cassia obtusifolia,herb,Cholinesterase,Inhibitor
+Celastrus paniculatus,herb,Neuronal Health,Neuroprotective
+Benincasa hispida,herb,Neuronal Health,Neuroprotective
+Sophora spp.,herb,Phosphodiesterase,Inhibitor
+Scutellaria spp.,herb,Phosphodiesterase,Inhibitor
+Convolvulus pluricaulis,herb,AChE,Inhibitor
+Convolvulus pluricaulis,herb,Cognitive Function,Nootropic
+Commiphora wightii,herb,AChE,Inhibitor
+Commiphora wightii,herb,Cognitive Function,Nootropic
+Zingiber officinale,herb,Memory (Recall/Retention),Enhancer
+Emblica officinalis,herb,Oxidative Stress,Antioxidant
+Emblica officinalis,herb,Memory Deficit,Enhancer
+Withania somnifera,herb,AChE,Inhibitor
+Withania somnifera,herb,Amyloid Beta ($A\beta$),Inhibitor
+Withania somnifera,herb,Inflammation,Anti-inflammatory
+Withania somnifera,herb,Synaptic Plasticity,Regenerative
+Bacopa monniera,herb,Oxidative Stress,Antioxidant
+Bacopa monniera,herb,Cognitive Function,Nootropic
+Tinospora cordifolia,herb,ACh Synthesis,Enhancer
+Tinospora cordifolia,herb,Neuronal Health,Neuroprotective
+Tinospora cordifolia,herb,Cognitive Function,Nootropic
+Curcuma longa,herb,Cholinesterase,Inhibitor
+Curcuma longa,herb,$\beta$-secretase,Inhibitor
+Curcuma longa,herb,Amyloid Beta ($A\beta$),Anti-amyloid
+Moringa oleifera,herb,"Monoamines (NE, DA, 5-HT)",Modulator
+Moringa oleifera,herb,Oxidative Stress,Antioxidant
+Nardostachys jatamansi,herb,Stress-induced Amnesia,Inhibitor
+Celastrus paniculatus,herb,ACh Levels,Enhancer
+Celastrus paniculatus,herb,Neuronal Health,Neuroprotective
+Myristica fragrans,herb,Memory Deficit,Enhancer
+Coriandrum sativum,herb,Inflammation,Anti-inflammatory
+Coriandrum sativum,herb,Cholesterol,Reducer
+Crocus sativus,herb,Synaptic Plasticity,Enhancer
+Crocus sativus,herb,Fibrillogenesis,Inhibitor
+Ficus carica,herb,Memory (Amnesia),Enhancer
+Ficus carica,herb,Cognitive Function,Nootropic
+Cissampelos pareira,herb,AChE,Inhibitor
+Cissampelos pareira,herb,Inflammation,Anti-inflammatory
+Benincasa hispida,herb,Neuronal Health,Neuroprotective
+Benincasa hispida,herb,Cognitive Function,Nootropic
+Centella asiatica,herb,AChE,Inhibitor
+Centella asiatica,herb,Oxidative Stress,Antioxidant
+Catharanthus roseus,herb,Neuronal Health,Neuroprotective
+Areca catechu,herb,MAO-A,Inhibitor
+Areca catechu,herb,Muscarinic (M2),Modulator
+Asparagus racemosus,herb,MAO-A,Inhibitor
+Asparagus racemosus,herb,MAO-B,Inhibitor
+Salvia lavandulaefolia,herb,AChE,Inhibitor
+Acorus calamus,herb,Neuronal Health,Neuroprotective
+Acorus calamus,herb,Cognitive Function,Nootropic
+Glycyrrhiza glabra,herb,Neuronal Health,Neuroprotective
+Glycyrrhiza glabra,herb,Inflammation,Anti-inflammatory
+Desmodium gangeticum,herb,AChE,Inhibitor
+Desmodium gangeticum,herb,Cognitive Function,Nootropic
+Clitoria ternatea,herb,ACh Levels,Enhancer
+Clitoria ternatea,herb,Cognitive Function,Nootropic
+Punica granatum,herb,Neuronal Health,Neuroprotective
+Punica granatum,herb,Memory (Learning/Retention),Enhancer
+Punica granatum,herb,Oxidative Stress,Antioxidant
+Camellia sinensis,herb,CYP2D6,Inhibition
+Camellia sinensis,herb,CYP3A4,Inhibition
+Metoprolol,drug,CYP2D6,Substrate

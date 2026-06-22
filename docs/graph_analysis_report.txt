@@ -1,0 +1,16 @@
+KNOWLEDGE GRAPH ANALYSIS REPORT
+==============================
+Total Nodes: 546
+Total Interaction Edges: 933
+
+TOP 10 INTERACTION HUBS (Most connected entities):
+1. CYP3A4 (Score: 0.4972)
+2. CYP1A1 (Score: 0.2128)
+3. CYP1A2 (Score: 0.1963)
+4. CYP2C9 (Score: 0.1945)
+5. CYP2D6 (Score: 0.1101)
+6. CYP2C19 (Score: 0.0807)
+7. CYP2C8 (Score: 0.0440)
+8. CYP2E1 (Score: 0.0312)
+9. Curcuma longa (Score: 0.0294)
+10. P-gp (Score: 0.0275)

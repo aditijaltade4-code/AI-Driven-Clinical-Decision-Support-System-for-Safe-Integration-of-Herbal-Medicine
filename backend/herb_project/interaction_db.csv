@@ -1,0 +1,429 @@
+Herbs,Drugs,
+Danshen,Warfarin,danshen|warfarin
+Danshen,Mefenamic acid,danshen|mefenamic acid
+Danshen,Digoxin,danshen|digoxin
+Ashwagandha,Amitriptyline,ashwagandha|amitriptyline
+Danshen,Propranolol,danshen|propranolol
+Danshen,Theophylline,danshen|theophylline
+Gokshura,Amlodipine,gokshura|amlodipine
+Gokshura,Atenolol,gokshura|atenolol
+Gokshura,Chlorothiazide,gokshura|chlorothiazide
+Gokshura,Nifedipine,gokshura|nifedipine
+Gokshura,Nicardipine,gokshura|nicardipine
+Gokshura,Telmisartan,gokshura|telmisartan
+Triphala,Metformin,triphala|metformin
+Gokshura,Furosemide,gokshura|furosemide
+Gokshura,Glimepiride,gokshura|glimepiride
+Gokshura,Gliclazide,gokshura|gliclazide
+Gokshura,Glipizide,gokshura|glipizide
+Gokshura,Insulin,gokshura|insulin
+Gokshura,Metformin,gokshura|metformin
+Gokshura,Tolbutamide,gokshura|tolbutamide
+Arjuna,Phenacetin,arjuna|phenacetin
+Arjuna,Pantoprazole,arjuna|pantoprazole
+Baheda,Doxorubicin,baheda|doxorubicin
+Baheda,Cisplatin,baheda|cisplatin
+Gotu Kola,Citalopram,gotu kola|citalopram
+Gotu Kola,Escitalopram,gotu kola|escitalopram
+Gotu Kola,Diazepam,gotu kola|diazepam
+Gotu Kola,Sertraline,gotu kola|sertraline
+Gotu Kola,Clopidogrel,gotu kola|clopidogrel
+Gotu Kola,Omeprazole,gotu kola|omeprazole
+Gotu Kola,Lansoprazole,gotu kola|lansoprazole
+Gotu Kola,Pantoprazole,gotu kola|pantoprazole
+Triphala,Phenacetin,triphala|phenacetin
+Triphala,Midazolam,triphala|midazolam
+Triphala,Cisplatin,triphala|cisplatin
+Triphala,Gentamicin,triphala|gentamicin
+Triphala,Oxacillin,triphala|oxacillin
+Triphala,Omeprazole,triphala|omeprazole
+Guduchi,Gliclazide,guduchi|gliclazide
+Guduchi,Glibenclamide,guduchi|glibenclamide
+Guduchi,Metformin,guduchi|metformin
+Guggul,Prasugrel,guggul|prasugrel
+Guggul,Chlorpheniramine,guggul|chlorpheniramine
+Guggul,Methscopolamine,guggul|methscopolamine
+Guggul,Midazolam,guggul|midazolam
+Guggul,Warfarin,guggul|warfarin
+Guggul,Aspirin,guggul|aspirin
+Guggul,Rosuvastatin,guggul|rosuvastatin
+Guggul,Atorvastatin,guggul|atorvastatin
+Guggul,Aspirin,guggul|aspirin
+Cinnamon,Metformin,cinnamon|metformin
+Cinnamon,Warfarin,cinnamon|warfarin
+Cinnamon,Hepatotoxic Agents,cinnamon|hepatotoxic agents
+Bitter melon,Metformin,bitter melon|metformin
+Fenugreek,Metformin,fenugreek|metformin
+Fenugreek,Warfarin / Antiplatelets,fenugreek|warfarin / antiplatelets
+Fenugreek,Laxatives,fenugreek|laxatives
+Fenugreek,Digoxin,fenugreek|digoxin
+Aloe vera,Insulin / Oral Hypoglycemics,aloe vera|insulin / oral hypoglycemics
+Aloe vera,Digoxin / Digitoxin,aloe vera|digoxin / digitoxin
+Aloe vera,Furosemide,aloe vera|furosemide
+Aloe vera,Hydrocortisone (Topical),aloe vera|hydrocortisone (topical)
+Chia,Aspirin,chia|aspirin
+Chia,Amlodipine,chia|amlodipine
+Rosemary,Diazepam,rosemary|diazepam
+Rosemary,Aspirin,rosemary|aspirin
+Rosemary,Antidiabetic Agents,rosemary|antidiabetic agents
+Rosemary,CYP450 Substrates,rosemary|cyp450 substrates
+Saffron,Fluoxetine,saffron|fluoxetine
+Saffron,Nitrogylcerin,saffron|nitrogylcerin
+Saffron,Warfarin,saffron|warfarin
+Saffron,Estradiol,saffron|estradiol
+Turmeric,Ciprofloxacin,turmeric|ciprofloxacin
+Turmeric,Amikacin,turmeric|amikacin
+Turmeric,Gentamicin,turmeric|gentamicin
+Turmeric,Cefepime,turmeric|cefepime
+Turmeric,Pantoprazole,turmeric|pantoprazole
+Turmeric,Estradiol,turmeric|estradiol
+Turmeric,Talinolol,turmeric|talinolol
+Garlic,Warfarin,garlic|warfarin
+Garlic,Propranolol,garlic|propranolol
+Papaya Extract,Warfarin,papaya extract|warfarin
+Aloe vera,Chlorthiazide,aloe vera|chlorthiazide
+Garlic,Acetaminophen,garlic|acetaminophen
+Green Tea,Warfarin,green tea|warfarin
+Green Tea,Tamoxifen,green tea|tamoxifen
+Senna,Thiazide Diuretics,senna|thiazide diuretics
+Black Pepper,Phenytoin,black pepper|phenytoin
+Black Pepper,Carbamazepine,black pepper|carbamazepine
+Black Pepper,Propranolol,black pepper|propranolol
+Black Pepper,Atenolol,black pepper|atenolol
+Ginger,Amlodipine,ginger|amlodipine
+Ginger,Losartan,ginger|losartan
+Brahmi,Amitriptyline,brahmi|amitriptyline
+Brahmi,Atropine,brahmi|atropine
+Brahmi,Scopolamine,brahmi|scopolamine
+Brahmi,Donepezil,brahmi|donepezil
+Brahmi,Tacrine,brahmi|tacrine
+Brahmi,Pilocarpine,brahmi|pilocarpine
+Brahmi,Levothyroxine,brahmi|levothyroxine
+Guduchi,Cyclosporine,guduchi|cyclosporine
+Guduchi,Tacrolimus,guduchi|tacrolimus
+Guduchi,Corticosteroids,guduchi|corticosteroids
+Guduchi,Theophylline,guduchi|theophylline
+Guduchi,Clozapine,guduchi|clozapine
+Guduchi,Omeprazole,guduchi|omeprazole
+Guduchi,Clopidogrel,guduchi|clopidogrel
+Guduchi,Warfarin,guduchi|warfarin
+Guduchi,Codeine,guduchi|codeine
+Guduchi,Metoprolol,guduchi|metoprolol
+Haritaki,Chlorzoxazone,haritaki|chlorzoxazone
+Haritaki,Omeprazole,haritaki|omeprazole
+Haritaki,Insulin,haritaki|insulin
+Haritaki,Metformin,haritaki|metformin
+Guggulu,Propranolol,guggulu|propranolol
+Guggulu,Atorvastatin,guggulu|atorvastatin
+Guggulu,Levothyroxine,guggulu|levothyroxine
+Ashwagandha,Sertraline,ashwagandha|sertraline
+Avipattikar Churna,Omeprazole,avipattikar churna|omeprazole
+Avipattikar Churna,Phenytoin,avipattikar churna|phenytoin
+Chandraprabha Vati,Metformin,chandraprabha vati|metformin
+Aarogyavardhani Vati,Paracetamol,aarogyavardhani vati|paracetamol
+Triphala,Warfarin,triphala|warfarin
+Triphala,Digoxin,triphala|digoxin
+Garlic ,Saquinavir,garlic|saquinavir
+Garlic ,Warfarin,garlic|warfarin
+Garlic ,Abemaciclib,garlic|abemaciclib
+Garlic ,Acalabrutinib,garlic|acalabrutinib
+Garlic ,Alectinib,garlic|alectinib
+Garlic ,Alfentanil,garlic|alfentanil
+Garlic ,Alprazolam,garlic|alprazolam
+Garlic ,Amitriptyline,garlic|amitriptyline
+Garlic ,Amlodipine,garlic|amlodipine
+Garlic ,Aprepitant,garlic|aprepitant
+Garlic ,Aripiprazole,garlic|aripiprazole
+Garlic ,Astemizole,garlic|astemizole
+Garlic ,Atorvastatin,garlic|atorvastatin
+Garlic ,Boceprevir,garlic|boceprevir
+Garlic ,Brexpiprazole,garlic|brexpiprazole
+Garlic ,Brigatinib,garlic|brigatinib
+Garlic ,Buspirone,garlic|buspirone
+Garlic ,Cafergot,garlic|cafergot
+Garlic ,Caffeine,garlic|caffeine
+Garlic ,Carbamazepine,garlic|carbamazepine
+Garlic ,Cariprazine,garlic|cariprazine
+Garlic ,Cerivastatin,garlic|cerivastatin
+Garlic ,Chlorpheniramine,garlic|chlorpheniramine
+Garlic ,Cilostazol,garlic|cilostazol
+Garlic ,Cisapride,garlic|cisapride
+Garlic ,Citalopram,garlic|citalopram
+Garlic ,Clarithromycin,garlic|clarithromycin
+Garlic ,Clopidogrel,garlic|clopidogrel
+Garlic ,Cobimetinib,garlic|cobimetinib
+Garlic ,Cocaine,garlic|cocaine
+Garlic ,Codeine,garlic|codeine
+Garlic ,Copanlisib,garlic|copanlisib
+Garlic ,Cyclosporine,garlic|cyclosporine
+Garlic ,Daclatasvir,garlic|daclatasvir
+Garlic ,Dapsone,garlic|dapsone
+Garlic ,Deflazacort,garlic|deflazacort
+Garlic ,Dexamethasone,garlic|dexamethasone
+Garlic ,Dextromethorphan,garlic|dextromethorphan
+Garlic ,Diazepam,garlic|diazepam
+Garlic ,Diltiazem,garlic|diltiazem
+Garlic ,Docetaxel,garlic|docetaxel
+Garlic ,Domperidone,garlic|domperidone
+Garlic ,Doxepin,garlic|doxepin
+Garlic ,Efavirenz,garlic|efavirenz
+Garlic ,Elbasvir,garlic|elbasvir
+Garlic ,Eliglustat,garlic|eliglustat
+Garlic ,Eplerenone,garlic|eplerenone
+Garlic ,Erythromycin,garlic|erythromycin
+Garlic ,Escitalopram,garlic|escitalopram
+Garlic ,Esomeprazole,garlic|esomeprazole
+Garlic ,Estradiol,garlic|estradiol
+Garlic ,Felodipine,garlic|felodipine
+Garlic ,Fentanyl,garlic|fentanyl
+Garlic ,Finasteride,garlic|finasteride
+Garlic ,Flibanserin,garlic|flibanserin
+Garlic ,Haloperidol,garlic|haloperidol
+Garlic ,Hydrocortisone,garlic|hydrocortisone
+Garlic ,Ibrutinib,garlic|ibrutinib
+Garlic ,Idelalisib,garlic|idelalisib
+Garlic ,Indinavir,garlic|indinavir
+Garlic ,Irinotecan,garlic|irinotecan
+Garlic ,Isavuconazonium sulfate,garlic|isavuconazonium sulfate
+Garlic ,Ivabradine,garlic|ivabradine
+Garlic ,Lansoprazole,garlic|lansoprazole
+Garlic ,Lenvatinib,garlic|lenvatinib
+Garlic ,Lercanidipine,garlic|lercanidipine
+Garlic ,Lidocaine,garlic|lidocaine
+Garlic ,Lovastatin,garlic|lovastatin
+Garlic ,Methadone,garlic|methadone
+Garlic ,Midazolam,garlic|midazolam
+Garlic ,Naldemedine,garlic|naldemedine
+Garlic ,Naloxegol,garlic|naloxegol
+Garlic ,Nateglinide,garlic|nateglinide
+Garlic ,Nelfinavir,garlic|nelfinavir
+Garlic ,Neratinib,garlic|neratinib
+Garlic ,Netupitant,garlic|netupitant
+Garlic ,Nevirapine,garlic|nevirapine
+Garlic ,Nifedipine,garlic|nifedipine
+Garlic ,Nisoldipine,garlic|nisoldipine
+Garlic ,Nitrendipine,garlic|nitrendipine
+Garlic ,Azithromycin,garlic|azithromycin
+Garlic ,Pravastatin,garlic|pravastatin
+Garlic ,Rosuvastatin,garlic|rosuvastatin
+Garlic ,Olaparib,garlic|olaparib
+Garlic ,Omeprazole,garlic|omeprazole
+Garlic ,Ondansetron,garlic|ondansetron
+Garlic ,Osimertinib,garlic|osimertinib
+Garlic ,Palbociclib,garlic|palbociclib
+Garlic ,Panobinostat,garlic|panobinostat
+Garlic ,Pantoprazole,garlic|pantoprazole
+Garlic ,Pimavanserin,garlic|pimavanserin
+Garlic ,Pimozide,garlic|pimozide
+Garlic ,Progesterone,garlic|progesterone
+Garlic ,Propranolol,garlic|propranolol
+Garlic ,Quetiapine,garlic|quetiapine
+Garlic ,Quinidine,garlic|quinidine
+Garlic ,Quinine,garlic|quinine
+Garlic ,Regorafenib,garlic|regorafenib
+Garlic ,Ribociclib,garlic|ribociclib
+Garlic ,Risperidone,garlic|risperidone
+Garlic ,Ritonavir,garlic|ritonavir
+Garlic ,Rolapitant,garlic|rolapitant
+Garlic ,Romidepsin,garlic|romidepsin
+Garlic ,Salmeterol,garlic|salmeterol
+Garlic ,Selexipag,garlic|selexipag
+Garlic ,Sildenafil,garlic|sildenafil
+Garlic ,Simvastatin,garlic|simvastatin
+Garlic ,Sirolimus,garlic|sirolimus
+Garlic ,Sonidegib,garlic|sonidegib
+Garlic ,Sorafenib,garlic|sorafenib
+Garlic ,Sunitinib,garlic|sunitinib
+Garlic ,Suvorexant,garlic|suvorexant
+Garlic ,Tacrolimus,garlic|tacrolimus
+Garlic ,Tamoxifen,garlic|tamoxifen
+Garlic ,Paclitaxel (Taxol),garlic|paclitaxel (taxol)
+Garlic ,Telaprevir,garlic|telaprevir
+Garlic ,Telithromycin,garlic|telithromycin
+Garlic ,Terfenadine,garlic|terfenadine
+Garlic ,Testosterone,garlic|testosterone
+Garlic ,Temsirolimus (Torisel),garlic|temsirolimus (torisel)
+Garlic ,Tramadol,garlic|tramadol
+Garlic ,Trazodone,garlic|trazodone
+Garlic ,Valbenazine,garlic|valbenazine
+Garlic ,Velpatasvir,garlic|velpatasvir
+Garlic ,Vemurafenib,garlic|vemurafenib
+Garlic ,Venetoclax,garlic|venetoclax
+Garlic ,Venlafaxine,garlic|venlafaxine
+Garlic ,Verapamil,garlic|verapamil
+Garlic ,Vincristine,garlic|vincristine
+Garlic ,Voriconazole,garlic|voriconazole
+Garlic ,Zaleplon,garlic|zaleplon
+Garlic ,Ziprasidone,garlic|ziprasidone
+Garlic ,Zolpidem,garlic|zolpidem
+Arjuna,Dacarbazine,arjuna|dacarbazine
+Arjuna,Chlorzoxazone,arjuna|chlorzoxazone
+Arjuna,Estrone,arjuna|estrone
+Arjuna,Granisetron,arjuna|granisetron
+Arjuna,Tesmilifene,arjuna|tesmilifene
+Arjuna,Resveratrol,arjuna|resveratrol
+Arjuna,Azimilide,arjuna|azimilide
+Arjuna,Melatonin,arjuna|melatonin
+Arjuna,Tamoxifen,arjuna|tamoxifen
+Arjuna,Thalidomide,arjuna|thalidomide
+Arjuna,Azelastine,arjuna|azelastine
+Arjuna,Cinnarizine,arjuna|cinnarizine
+Arjuna,Flunarizine,arjuna|flunarizine
+Arjuna,Acetaminophen,arjuna|acetaminophen
+Arjuna,Amitriptyline,arjuna|amitriptyline
+Arjuna,Caffeine,arjuna|caffeine
+Arjuna,Clomipramine,arjuna|clomipramine
+Arjuna,Clozapine,arjuna|clozapine
+Arjuna,Cyclobenzaprine,arjuna|cyclobenzaprine
+Arjuna,Doxepin,arjuna|doxepin
+Arjuna,Duloxetine,arjuna|duloxetine
+Arjuna,Estradiol,arjuna|estradiol
+Arjuna,Fluvoxamine,arjuna|fluvoxamine
+Arjuna,Haloperidol,arjuna|haloperidol
+Arjuna,Imipramine,arjuna|imipramine
+Arjuna,Mexiletine,arjuna|mexiletine
+Arjuna,Nabumetone,arjuna|nabumetone
+Arjuna,Naproxen,arjuna|naproxen
+Arjuna,Olanzapine,arjuna|olanzapine
+Arjuna,Ondansetron,arjuna|ondansetron
+Arjuna,Phenacetin,arjuna|phenacetin
+Arjuna,Pirfenidone,arjuna|pirfenidone
+Arjuna,Propranolol,arjuna|propranolol
+Arjuna,Riluzole,arjuna|riluzole
+Arjuna,Rucaparib,arjuna|rucaparib
+Arjuna,Tacrine,arjuna|tacrine
+Arjuna,Theophylline,arjuna|theophylline
+Arjuna,Tizanidine,arjuna|tizanidine
+Arjuna,Triamterene,arjuna|triamterene
+Arjuna,Verapamil,arjuna|verapamil
+Arjuna,Warfarin,arjuna|warfarin
+Arjuna,Zileuton,arjuna|zileuton
+Arjuna,Zolmitriptan,arjuna|zolmitriptan
+Arjuna,Amiodarone,arjuna|amiodarone
+Arjuna,Carvedilol,arjuna|carvedilol
+Arjuna,Fluvastatin,arjuna|fluvastatin
+Arjuna,Amodiaquine,arjuna|amodiaquine
+Arjuna,Chloroquine,arjuna|chloroquine
+Arjuna,Clenbuterol,arjuna|clenbuterol
+Arjuna,Daunorubicin,arjuna|daunorubicin
+Arjuna,Debrisoquine,arjuna|debrisoquine
+Arjuna,Flutamide,arjuna|flutamide
+Arjuna,Nicotine,arjuna|nicotine
+Arjuna,Omeprazole,arjuna|omeprazole
+Arjuna,Progesterone,arjuna|progesterone
+Arjuna,Testosterone,arjuna|testosterone
+Arjuna,Toremifene,arjuna|toremifene
+Arjuna,Erlotinib,arjuna|erlotinib
+Arjuna,Pentamidine,arjuna|pentamidine
+Arjuna,Tretinoin,arjuna|tretinoin
+Arjuna,Dasatinib,arjuna|dasatinib
+Arjuna,Clonidine,arjuna|clonidine
+Arjuna,Banoxantrone,arjuna|banoxantrone
+Arjuna,Lorcaserin,arjuna|lorcaserin
+Arjuna,Gefitinib,arjuna|gefitinib
+Arjuna,Dapagliflozin,arjuna|dapagliflozin
+Arjuna,Romidepsin,arjuna|romidepsin
+Arjuna,Riociguat,arjuna|riociguat
+Arjuna,Perospirone,arjuna|perospirone
+Arjuna,Indirubin,arjuna|indirubin
+Arjuna,Triclabendazole,arjuna|triclabendazole
+Arjuna,Loratadine,arjuna|loratadine
+Arjuna,Solifenacin,arjuna|solifenacin
+Arjuna,Istradefylline,arjuna|istradefylline
+Arjuna,Difloxacin,arjuna|difloxacin
+Chandraprabha Vati,Amitriptyline,chandraprabha vati|amitriptyline
+Chandraprabha Vati,Capecitabine,chandraprabha vati|capecitabine
+Chandraprabha Vati,Celecoxib,chandraprabha vati|celecoxib
+Chandraprabha Vati,Diclofenac,chandraprabha vati|diclofenac
+Chandraprabha Vati,Doxepin,chandraprabha vati|doxepin
+Chandraprabha Vati,Fluoxetine,chandraprabha vati|fluoxetine
+Chandraprabha Vati,Fluvastatin,chandraprabha vati|fluvastatin
+Chandraprabha Vati,Glibenclamide,chandraprabha vati|glibenclamide
+Chandraprabha Vati,Glimepiride,chandraprabha vati|glimepiride
+Chandraprabha Vati,Glipizide,chandraprabha vati|glipizide
+Chandraprabha Vati,Glyburide,chandraprabha vati|glyburide
+Chandraprabha Vati,Ibuprofen,chandraprabha vati|ibuprofen
+Chandraprabha Vati,Irbesartan,chandraprabha vati|irbesartan
+Chandraprabha Vati,Lesinurad,chandraprabha vati|lesinurad
+Chandraprabha Vati,Lornoxicam,chandraprabha vati|lornoxicam
+Chandraprabha Vati,Losartan,chandraprabha vati|losartan
+Chandraprabha Vati,Meloxicam,chandraprabha vati|meloxicam
+Chandraprabha Vati,Nateglinide,chandraprabha vati|nateglinide
+Chandraprabha Vati,Phenytoin,chandraprabha vati|phenytoin
+Chandraprabha Vati,Piroxicam,chandraprabha vati|piroxicam
+Chandraprabha Vati,Rosiglitazone,chandraprabha vati|rosiglitazone
+Chandraprabha Vati,S-Warfarin,chandraprabha vati|s-warfarin
+Chandraprabha Vati,Tamoxifen,chandraprabha vati|tamoxifen
+Chandraprabha Vati,Tolbutamide,chandraprabha vati|tolbutamide
+Chandraprabha Vati,Valproic Acid,chandraprabha vati|valproic acid
+Chandraprabha Vati,Venlafaxine,chandraprabha vati|venlafaxine
+Chandraprabha Vati,Voriconazole,chandraprabha vati|voriconazole
+Chandraprabha Vati,Zafirlukast,chandraprabha vati|zafirlukast
+Chandraprabha Vati,Amiodarone,chandraprabha vati|amiodarone
+Chandraprabha Vati,Clopidogrel,chandraprabha vati|clopidogrel
+Chandraprabha Vati,Fluconazole,chandraprabha vati|fluconazole
+Chandraprabha Vati,Carbamazepine,chandraprabha vati|carbamazepine
+Chandraprabha Vati,Rifampin,chandraprabha vati|rifampin
+Passion flower,Lorazepam,passion flower|lorazepam
+Peppermint,Felodipine,peppermint|felodipine
+Prickly pear cactus,Glipizide,prickly pear cactus|glipizide
+Prickly pear cactus,Metformin,prickly pear cactus|metformin
+Psyllium,Lithium,psyllium|lithium
+Punarnava,Gentamicin,punarnava|gentamicin
+Punarnava,Cisplatin,punarnava|cisplatin
+Punarnava,Paracetamol,punarnava|paracetamol
+Rosemary,Anxiolytics,rosemary|anxiolytics
+Rosemary,Antibiotics,rosemary|antibiotics
+Rosemary,Warfarin,rosemary|warfarin
+Saffron,SSRIs,saffron|ssris
+Saffron,Antihypertensives,saffron|antihypertensives
+Saffron,Fertility Agents,saffron|fertility agents
+Sarpagandha,Digoxin,sarpagandha|digoxin
+Sarpagandha,Levodopa,sarpagandha|levodopa
+Sarpagandha,Amlodipine,sarpagandha|amlodipine
+Sarpagandha,Phenelzine,sarpagandha|phenelzine
+Sarpagandha,Haloperidol,sarpagandha|haloperidol
+Sarpagandha,Glimepiride,sarpagandha|glimepiride
+Sarpagandha,Epinephrine,sarpagandha|epinephrine
+Sarpagandha,Warfarin,sarpagandha|warfarin
+Senna,Thiazide Diuretics,senna|thiazide diuretics
+Shankhapushpi,Phenytoin,shankhapushpi|phenytoin
+Shatavari,Furosemide,shatavari|furosemide
+Shatavari,Hydrochlorothiazide,shatavari|hydrochlorothiazide
+Shatavari,Lithium,shatavari|lithium
+Shilajit,Doxorubicin,shilajit|doxorubicin
+Triphala,Phenacetin,triphala|phenacetin
+Triphala,Midazolam,triphala|midazolam
+Triphala,Cisplatin,triphala|cisplatin
+Triphala,Gentamicin,triphala|gentamicin
+Tulsi,Warfarin,tulsi|warfarin
+Turmeric,Tacrolimus,turmeric|tacrolimus
+Vacha,Phenelzine,vacha|phenelzine
+Kutki,Cyclosporine,kutki|cyclosporine
+Guggul,Pantoprazole,guggul|pantoprazole
+Triphala ,Metformin,triphala|metformin
+Triphala ,Glimepiride,triphala|glimepiride
+Triphala ,Aspirin,triphala|aspirin
+Guggul,Amlodipine,guggul|amlodipine
+Chandraprabha Vati,Diclofenac,chandraprabha vati|diclofenac
+Guggul,Atenolol,guggul|atenolol
+Guggul,Ciprofloxacin,guggul|ciprofloxacin
+Guggul,Azithromycin,guggul|azithromycin
+Guggul,Fluconazole,guggul|fluconazole
+Guggul,Clopidogrel,guggul|clopidogrel
+Chandraprabha Vati,Clopidogrel,chandraprabha vati|clopidogrel
+Guggul,Atorvastatin,guggul|atorvastatin
+Guggul,Norfloxacin,guggul|norfloxacin
+Guggul,Escitalopram,guggul|escitalopram
+Guggul,Propranolol,guggul|propranolol
+Ashwagandha,Amitriptyline,ashwagandha|amitriptyline
+Guggul,Amitriptyline,guggul|amitriptyline
+Guggul,Risperidone,guggul|risperidone
+Chandraprabha Vati,Clopidogrel,chandraprabha vati|clopidogrel
+Guggul,Atorvastatin,guggul|atorvastatin
+Guggul,Norfloxacin,guggul|norfloxacin
+Guggul,Escitalopram,guggul|escitalopram
+Guggul,Propranolol,guggul|propranolol
+Ashwagandha,Amitriptyline,ashwagandha|amitriptyline
+Guggul,Amitriptyline,guggul|amitriptyline
+Guggul,Risperidone,guggul|risperidone

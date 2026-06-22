@@ -1,0 +1,501 @@
+Pair_ID,Herb,Drug,,,,Sentences
+401,long pepper,vitamin d3,,,,Patient is taking long pepper and vitamin d3 together.
+402,cinnamon,vitamin d3,,,,Patient is taking cinnamon and vitamin d3 together.
+403,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+404,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+405,triphala,amlodipine,,,,Patient is taking triphala and amlodipine together.
+406,guggul,amlodipine,,,,Patient is taking guggul and amlodipine together.
+407,ginger,amlodipine,,,,Patient is taking ginger and amlodipine together.
+408,black pepper,amlodipine,,,,Patient is taking black pepper and amlodipine together.
+409,long pepper,amlodipine,,,,Patient is taking long pepper and amlodipine together.
+410,cinnamon,amlodipine,,,,Patient is taking cinnamon and amlodipine together.
+411,chandraprabha vati,amlodipine,,,,Patient is taking chandraprabha vati and amlodipine together.
+412,chandraprabha vati,paracetamol,,,,Patient is taking chandraprabha vati and paracetamol together.
+413,ginger,paracetamol,,,,Patient is taking ginger and paracetamol together.
+414,black pepper,paracetamol,,,,Patient is taking black pepper and paracetamol together.
+415,long pepper,paracetamol,,,,Patient is taking long pepper and paracetamol together.
+416,cinnamon,paracetamol,,,,Patient is taking cinnamon and paracetamol together.
+417,chandraprabha vati,metronidazole,,,,Patient is taking chandraprabha vati and metronidazole together.
+418,ginger,metronidazole,,,,Patient is taking ginger and metronidazole together.
+419,black pepper,metronidazole,,,,Patient is taking black pepper and metronidazole together.
+420,long pepper,metronidazole,,,,Patient is taking long pepper and metronidazole together.
+421,cinnamon,metronidazole,,,,Patient is taking cinnamon and metronidazole together.
+422,chandraprabha vati,syp lactulose,,,,Patient is taking chandraprabha vati and syp lactulose together.
+423,ginger,syp lactulose,,,,Patient is taking ginger and syp lactulose together.
+424,black pepper,syp lactulose,,,,Patient is taking black pepper and syp lactulose together.
+425,long pepper,syp lactulose,,,,Patient is taking long pepper and syp lactulose together.
+426,cinnamon,syp lactulose,,,,Patient is taking cinnamon and syp lactulose together.
+427,chandraprabha vati,desvenlafaxine,,,,Patient is taking chandraprabha vati and desvenlafaxine together.
+428,ginger,desvenlafaxine,,,,Patient is taking ginger and desvenlafaxine together.
+429,black pepper,desvenlafaxine,,,,Patient is taking black pepper and desvenlafaxine together.
+430,long pepper,desvenlafaxine,,,,Patient is taking long pepper and desvenlafaxine together.
+431,cinnamon,desvenlafaxine,,,,Patient is taking cinnamon and desvenlafaxine together.
+432,chandraprabha vati,risperidone,,,,Patient is taking chandraprabha vati and risperidone together.
+433,ginger,risperidone,,,,Patient is taking ginger and risperidone together.
+434,black pepper,risperidone,,,,Patient is taking black pepper and risperidone together.
+435,long pepper,risperidone,,,,Patient is taking long pepper and risperidone together.
+436,cinnamon,risperidone,,,,Patient is taking cinnamon and risperidone together.
+437,chandraprabha vati,trihexyphenidyl,,,,Patient is taking chandraprabha vati and trihexyphenidyl together.
+438,ginger,trihexyphenidyl,,,,Patient is taking ginger and trihexyphenidyl together.
+439,black pepper,trihexyphenidyl,,,,Patient is taking black pepper and trihexyphenidyl together.
+440,long pepper,trihexyphenidyl,,,,Patient is taking long pepper and trihexyphenidyl together.
+441,cinnamon,trihexyphenidyl,,,,Patient is taking cinnamon and trihexyphenidyl together.
+442,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+443,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+444,ginger,diclofenac,,,,Patient is taking ginger and diclofenac together.
+445,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+446,long pepper,diclofenac,,,,Patient is taking long pepper and diclofenac together.
+447,cinnamon,diclofenac,,,,Patient is taking cinnamon and diclofenac together.
+448,chandraprabha vati,diclofenac,,,,Patient is taking chandraprabha vati and diclofenac together.
+449,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+450,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+451,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+452,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+453,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+454,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+455,chandraprabha vati,pantoprazole,,,,Patient is taking chandraprabha vati and pantoprazole together.
+456,triphala,vitamin b-complex,,,,Patient is taking triphala and vitamin b-complex together.
+457,guggul,vitamin b-complex,,,,Patient is taking guggul and vitamin b-complex together.
+458,ginger,vitamin b-complex,,,,Patient is taking ginger and vitamin b-complex together.
+459,black pepper,vitamin b-complex,,,,Patient is taking black pepper and vitamin b-complex together.
+460,long pepper,vitamin b-complex,,,,Patient is taking long pepper and vitamin b-complex together.
+461,cinnamon,vitamin b-complex,,,,Patient is taking cinnamon and vitamin b-complex together.
+462,chandraprabha vati,vitamin b-complex,,,,Patient is taking chandraprabha vati and vitamin b-complex together.
+463,triphala,calcium,,,,Patient is taking triphala and calcium together.
+464,guggul,calcium,,,,Patient is taking guggul and calcium together.
+465,ginger,calcium,,,,Patient is taking ginger and calcium together.
+466,black pepper,calcium,,,,Patient is taking black pepper and calcium together.
+467,long pepper,calcium,,,,Patient is taking long pepper and calcium together.
+468,cinnamon,calcium,,,,Patient is taking cinnamon and calcium together.
+469,chandraprabha vati,calcium,,,,Patient is taking chandraprabha vati and calcium together.
+470,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+471,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+472,ginger,vitamin d3,,,,Patient is taking ginger and vitamin d3 together.
+473,black pepper,vitamin d3,,,,Patient is taking black pepper and vitamin d3 together.
+474,long pepper,vitamin d3,,,,Patient is taking long pepper and vitamin d3 together.
+475,cinnamon,vitamin d3,,,,Patient is taking cinnamon and vitamin d3 together.
+476,chandraprabha vati,vitamin d3,,,,Patient is taking chandraprabha vati and vitamin d3 together.
+477,triphala,norfloxacin,,,,Patient is taking triphala and norfloxacin together.
+478,guggul,norfloxacin,,,,Patient is taking guggul and norfloxacin together.
+479,ginger,norfloxacin,,,,Patient is taking ginger and norfloxacin together.
+480,black pepper,norfloxacin,,,,Patient is taking black pepper and norfloxacin together.
+481,long pepper,norfloxacin,,,,Patient is taking long pepper and norfloxacin together.
+482,cinnamon,norfloxacin,,,,Patient is taking cinnamon and norfloxacin together.
+483,chandraprabha vati,norfloxacin,,,,Patient is taking chandraprabha vati and norfloxacin together.
+484,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+485,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+486,gandhak rasayan,cetirizine,,,,Patient is taking gandhak rasayan and cetirizine together.
+487,ginger,cetirizine,,,,Patient is taking ginger and cetirizine together.
+488,black pepper,cetirizine,,,,Patient is taking black pepper and cetirizine together.
+489,long pepper,cetirizine,,,,Patient is taking long pepper and cetirizine together.
+490,cinnamon,cetirizine,,,,Patient is taking cinnamon and cetirizine together.
+491,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+492,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+493,gandhak rasayan,pantoprazole,,,,Patient is taking gandhak rasayan and pantoprazole together.
+494,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+495,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+496,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+497,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+498,triphala,flucanozole,,,,Patient is taking triphala and flucanozole together.
+499,guggul,flucanozole,,,,Patient is taking guggul and flucanozole together.
+500,gandhak rasayan,flucanozole,,,,Patient is taking gandhak rasayan and flucanozole together.
+501,ginger,flucanozole,,,,Patient is taking ginger and flucanozole together.
+502,black pepper,flucanozole,,,,Patient is taking black pepper and flucanozole together.
+503,long pepper,flucanozole,,,,Patient is taking long pepper and flucanozole together.
+504,cinnamon,flucanozole,,,,Patient is taking cinnamon and flucanozole together.
+505,triphala,vit c,,,,Patient is taking triphala and vit c together.
+506,guggul,vit c,,,,Patient is taking guggul and vit c together.
+507,gandhak rasayan,vit c,,,,Patient is taking gandhak rasayan and vit c together.
+508,ginger,vit c,,,,Patient is taking ginger and vit c together.
+509,black pepper,vit c,,,,Patient is taking black pepper and vit c together.
+510,long pepper,vit c,,,,Patient is taking long pepper and vit c together.
+511,cinnamon,vit c,,,,Patient is taking cinnamon and vit c together.
+512,triphala,calcium,,,,Patient is taking triphala and calcium together.
+513,guggul,calcium,,,,Patient is taking guggul and calcium together.
+514,triphala,calcium,,,,Patient is taking triphala and calcium together.
+515,guduchi,calcium,,,,Patient is taking guduchi and calcium together.
+516,guggul,calcium,,,,Patient is taking guggul and calcium together.
+517,ginger,calcium,,,,Patient is taking ginger and calcium together.
+518,black pepper,calcium,,,,Patient is taking black pepper and calcium together.
+519,long pepper,calcium,,,,Patient is taking long pepper and calcium together.
+520,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+521,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+522,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+523,guduchi,vitamin d3,,,,Patient is taking guduchi and vitamin d3 together.
+524,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+525,ginger,vitamin d3,,,,Patient is taking ginger and vitamin d3 together.
+526,black pepper,vitamin d3,,,,Patient is taking black pepper and vitamin d3 together.
+527,long pepper,vitamin d3,,,,Patient is taking long pepper and vitamin d3 together.
+528,triphala,multivitamin,,,,Patient is taking triphala and multivitamin together.
+529,guggul,multivitamin,,,,Patient is taking guggul and multivitamin together.
+530,triphala,multivitamin,,,,Patient is taking triphala and multivitamin together.
+531,guduchi,multivitamin,,,,Patient is taking guduchi and multivitamin together.
+532,guggul,multivitamin,,,,Patient is taking guggul and multivitamin together.
+533,ginger,multivitamin,,,,Patient is taking ginger and multivitamin together.
+534,black pepper,multivitamin,,,,Patient is taking black pepper and multivitamin together.
+535,long pepper,multivitamin,,,,Patient is taking long pepper and multivitamin together.
+536,triphala,flucanozole,,,,Patient is taking triphala and flucanozole together.
+537,guggul,flucanozole,,,,Patient is taking guggul and flucanozole together.
+538,triphala,flucanozole,,,,Patient is taking triphala and flucanozole together.
+539,guduchi,flucanozole,,,,Patient is taking guduchi and flucanozole together.
+540,guggul,flucanozole,,,,Patient is taking guggul and flucanozole together.
+541,ginger,flucanozole,,,,Patient is taking ginger and flucanozole together.
+542,black pepper,flucanozole,,,,Patient is taking black pepper and flucanozole together.
+543,long pepper,flucanozole,,,,Patient is taking long pepper and flucanozole together.
+544,triphala,vit c,,,,Patient is taking triphala and vit c together.
+545,guggul,vit c,,,,Patient is taking guggul and vit c together.
+546,triphala,vit c,,,,Patient is taking triphala and vit c together.
+547,guduchi,vit c,,,,Patient is taking guduchi and vit c together.
+548,guggul,vit c,,,,Patient is taking guggul and vit c together.
+549,ginger,vit c,,,,Patient is taking ginger and vit c together.
+550,black pepper,vit c,,,,Patient is taking black pepper and vit c together.
+551,long pepper,vit c,,,,Patient is taking long pepper and vit c together.
+552,chandraprabha vati,budesonide inhaler,,,,Patient is taking chandraprabha vati and budesonide inhaler together.
+553,ginger,budesonide inhaler,,,,Patient is taking ginger and budesonide inhaler together.
+554,black pepper,budesonide inhaler,,,,Patient is taking black pepper and budesonide inhaler together.
+555,long pepper,budesonide inhaler,,,,Patient is taking long pepper and budesonide inhaler together.
+556,cinnamon,budesonide inhaler,,,,Patient is taking cinnamon and budesonide inhaler together.
+557,triphala,budesonide inhaler,,,,Patient is taking triphala and budesonide inhaler together.
+558,guggul,budesonide inhaler,,,,Patient is taking guggul and budesonide inhaler together.
+559,ginger,budesonide inhaler,,,,Patient is taking ginger and budesonide inhaler together.
+560,black pepper,budesonide inhaler,,,,Patient is taking black pepper and budesonide inhaler together.
+561,long pepper,budesonide inhaler,,,,Patient is taking long pepper and budesonide inhaler together.
+562,vasavaleha,budesonide inhaler,,,,Patient is taking vasavaleha and budesonide inhaler together.
+563,shwaskuthar ras,budesonide inhaler,,,,Patient is taking shwaskuthar ras and budesonide inhaler together.
+564,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+565,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+566,ginger,diclofenac,,,,Patient is taking ginger and diclofenac together.
+567,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+568,long pepper,diclofenac,,,,Patient is taking long pepper and diclofenac together.
+569,cinnamon,diclofenac,,,,Patient is taking cinnamon and diclofenac together.
+570,chandraprabha vati,diclofenac,,,,Patient is taking chandraprabha vati and diclofenac together.
+571,triphala,calcium,,,,Patient is taking triphala and calcium together.
+572,guggul,calcium,,,,Patient is taking guggul and calcium together.
+573,ginger,calcium,,,,Patient is taking ginger and calcium together.
+574,black pepper,calcium,,,,Patient is taking black pepper and calcium together.
+575,long pepper,calcium,,,,Patient is taking long pepper and calcium together.
+576,cinnamon,calcium,,,,Patient is taking cinnamon and calcium together.
+577,chandraprabha vati,calcium,,,,Patient is taking chandraprabha vati and calcium together.
+578,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+579,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+580,ginger,vitamin d3,,,,Patient is taking ginger and vitamin d3 together.
+581,black pepper,vitamin d3,,,,Patient is taking black pepper and vitamin d3 together.
+582,long pepper,vitamin d3,,,,Patient is taking long pepper and vitamin d3 together.
+583,cinnamon,vitamin d3,,,,Patient is taking cinnamon and vitamin d3 together.
+584,chandraprabha vati,vitamin d3,,,,Patient is taking chandraprabha vati and vitamin d3 together.
+585,triphala,multivitamin,,,,Patient is taking triphala and multivitamin together.
+586,guggul,multivitamin,,,,Patient is taking guggul and multivitamin together.
+587,ginger,multivitamin,,,,Patient is taking ginger and multivitamin together.
+588,black pepper,multivitamin,,,,Patient is taking black pepper and multivitamin together.
+589,long pepper,multivitamin,,,,Patient is taking long pepper and multivitamin together.
+590,cinnamon,multivitamin,,,,Patient is taking cinnamon and multivitamin together.
+591,chandraprabha vati,multivitamin,,,,Patient is taking chandraprabha vati and multivitamin together.
+592,triphala,vit c,,,,Patient is taking triphala and vit c together.
+593,guggul,vit c,,,,Patient is taking guggul and vit c together.
+594,ginger,vit c,,,,Patient is taking ginger and vit c together.
+595,black pepper,vit c,,,,Patient is taking black pepper and vit c together.
+596,long pepper,vit c,,,,Patient is taking long pepper and vit c together.
+597,cinnamon,vit c,,,,Patient is taking cinnamon and vit c together.
+598,chandraprabha vati,vit c,,,,Patient is taking chandraprabha vati and vit c together.
+599,triphala,chymoral forte,,,,Patient is taking triphala and chymoral forte together.
+600,guggul,chymoral forte,,,,Patient is taking guggul and chymoral forte together.
+601,ginger,chymoral forte,,,,Patient is taking ginger and chymoral forte together.
+602,black pepper,chymoral forte,,,,Patient is taking black pepper and chymoral forte together.
+603,long pepper,chymoral forte,,,,Patient is taking long pepper and chymoral forte together.
+604,cinnamon,chymoral forte,,,,Patient is taking cinnamon and chymoral forte together.
+605,chandraprabha vati,chymoral forte,,,,Patient is taking chandraprabha vati and chymoral forte together.
+606,triphala,ambroxol,,,,Patient is taking triphala and ambroxol together.
+607,guggul,ambroxol,,,,Patient is taking guggul and ambroxol together.
+608,ginger,ambroxol,,,,Patient is taking ginger and ambroxol together.
+609,black pepper,ambroxol,,,,Patient is taking black pepper and ambroxol together.
+610,long pepper,ambroxol,,,,Patient is taking long pepper and ambroxol together.
+611,cinnamon,ambroxol,,,,Patient is taking cinnamon and ambroxol together.
+612,triphala,metformin,,,,Patient is taking triphala and metformin together.
+613,guggul,metformin,,,,Patient is taking guggul and metformin together.
+614,ginger,metformin,,,,Patient is taking ginger and metformin together.
+615,black pepper,metformin,,,,Patient is taking black pepper and metformin together.
+616,long pepper,metformin,,,,Patient is taking long pepper and metformin together.
+617,cinnamon,metformin,,,,Patient is taking cinnamon and metformin together.
+618,triphala,glimepiride,,,,Patient is taking triphala and glimepiride together.
+619,guggul,glimepiride,,,,Patient is taking guggul and glimepiride together.
+620,ginger,glimepiride,,,,Patient is taking ginger and glimepiride together.
+621,black pepper,glimepiride,,,,Patient is taking black pepper and glimepiride together.
+622,long pepper,glimepiride,,,,Patient is taking long pepper and glimepiride together.
+623,cinnamon,glimepiride,,,,Patient is taking cinnamon and glimepiride together.
+624,triphala,telmisartan,,,,Patient is taking triphala and telmisartan together.
+625,guggul,telmisartan,,,,Patient is taking guggul and telmisartan together.
+626,ginger,telmisartan,,,,Patient is taking ginger and telmisartan together.
+627,black pepper,telmisartan,,,,Patient is taking black pepper and telmisartan together.
+628,long pepper,telmisartan,,,,Patient is taking long pepper and telmisartan together.
+629,cinnamon,telmisartan,,,,Patient is taking cinnamon and telmisartan together.
+630,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+631,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+632,ginger,diclofenac,,,,Patient is taking ginger and diclofenac together.
+633,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+634,long pepper,diclofenac,,,,Patient is taking long pepper and diclofenac together.
+635,cinnamon,diclofenac,,,,Patient is taking cinnamon and diclofenac together.
+636,chandraprabha vati,diclofenac,,,,Patient is taking chandraprabha vati and diclofenac together.
+637,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+638,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+639,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+640,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+641,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+642,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+643,chandraprabha vati,pantoprazole,,,,Patient is taking chandraprabha vati and pantoprazole together.
+644,triphala,calcium,,,,Patient is taking triphala and calcium together.
+645,guggul,calcium,,,,Patient is taking guggul and calcium together.
+646,ginger,calcium,,,,Patient is taking ginger and calcium together.
+647,black pepper,calcium,,,,Patient is taking black pepper and calcium together.
+648,long pepper,calcium,,,,Patient is taking long pepper and calcium together.
+649,cinnamon,calcium,,,,Patient is taking cinnamon and calcium together.
+650,chandraprabha vati,calcium,,,,Patient is taking chandraprabha vati and calcium together.
+651,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+652,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+653,ginger,vitamin d3,,,,Patient is taking ginger and vitamin d3 together.
+654,black pepper,vitamin d3,,,,Patient is taking black pepper and vitamin d3 together.
+655,long pepper,vitamin d3,,,,Patient is taking long pepper and vitamin d3 together.
+656,cinnamon,vitamin d3,,,,Patient is taking cinnamon and vitamin d3 together.
+657,chandraprabha vati,vitamin d3,,,,Patient is taking chandraprabha vati and vitamin d3 together.
+658,triphala,multivitamin,,,,Patient is taking triphala and multivitamin together.
+659,guggul,multivitamin,,,,Patient is taking guggul and multivitamin together.
+660,ginger,multivitamin,,,,Patient is taking ginger and multivitamin together.
+661,black pepper,multivitamin,,,,Patient is taking black pepper and multivitamin together.
+662,long pepper,multivitamin,,,,Patient is taking long pepper and multivitamin together.
+663,cinnamon,multivitamin,,,,Patient is taking cinnamon and multivitamin together.
+664,chandraprabha vati,multivitamin,,,,Patient is taking chandraprabha vati and multivitamin together.
+665,triphala,telmisartan,,,,Patient is taking triphala and telmisartan together.
+666,guggul,telmisartan,,,,Patient is taking guggul and telmisartan together.
+667,ginger,telmisartan,,,,Patient is taking ginger and telmisartan together.
+668,black pepper,telmisartan,,,,Patient is taking black pepper and telmisartan together.
+669,long pepper,telmisartan,,,,Patient is taking long pepper and telmisartan together.
+670,cinnamon,telmisartan,,,,Patient is taking cinnamon and telmisartan together.
+671,chandraprabha vati,paracetamol,,,,Patient is taking chandraprabha vati and paracetamol together.
+672,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+673,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+674,chandraprabha vati,doxycycline,,,,Patient is taking chandraprabha vati and doxycycline together.
+675,triphala,doxycycline,,,,Patient is taking triphala and doxycycline together.
+676,guggul,doxycycline,,,,Patient is taking guggul and doxycycline together.
+677,chandraprabha vati,pantoprazole,,,,Patient is taking chandraprabha vati and pantoprazole together.
+678,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+679,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+680,chandraprabha vati,multivitamin,,,,Patient is taking chandraprabha vati and multivitamin together.
+681,triphala,multivitamin,,,,Patient is taking triphala and multivitamin together.
+682,guggul,multivitamin,,,,Patient is taking guggul and multivitamin together.
+683,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+684,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+685,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+686,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+687,triphala,calcium,,,,Patient is taking triphala and calcium together.
+688,guggul,calcium,,,,Patient is taking guggul and calcium together.
+689,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+690,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+691,triphala,multivitamin,,,,Patient is taking triphala and multivitamin together.
+692,guggul,multivitamin,,,,Patient is taking guggul and multivitamin together.
+693,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+694,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+695,ginger,paracetamol,,,,Patient is taking ginger and paracetamol together.
+696,black pepper,paracetamol,,,,Patient is taking black pepper and paracetamol together.
+697,long pepper,paracetamol,,,,Patient is taking long pepper and paracetamol together.
+698,cinnamon,paracetamol,,,,Patient is taking cinnamon and paracetamol together.
+699,black pepper,paracetamol,,,,Patient is taking black pepper and paracetamol together.
+700,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+701,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+702,ginger,cetirizine,,,,Patient is taking ginger and cetirizine together.
+703,black pepper,cetirizine,,,,Patient is taking black pepper and cetirizine together.
+704,long pepper,cetirizine,,,,Patient is taking long pepper and cetirizine together.
+705,cinnamon,cetirizine,,,,Patient is taking cinnamon and cetirizine together.
+706,black pepper,cetirizine,,,,Patient is taking black pepper and cetirizine together.
+707,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+708,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+709,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+710,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+711,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+712,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+713,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+714,triphala,ambroxol,,,,Patient is taking triphala and ambroxol together.
+715,guggul,ambroxol,,,,Patient is taking guggul and ambroxol together.
+716,ginger,ambroxol,,,,Patient is taking ginger and ambroxol together.
+717,black pepper,ambroxol,,,,Patient is taking black pepper and ambroxol together.
+718,long pepper,ambroxol,,,,Patient is taking long pepper and ambroxol together.
+719,cinnamon,ambroxol,,,,Patient is taking cinnamon and ambroxol together.
+720,black pepper,ambroxol,,,,Patient is taking black pepper and ambroxol together.
+721,triphala,telmisartan,,,,Patient is taking triphala and telmisartan together.
+722,guggul,telmisartan,,,,Patient is taking guggul and telmisartan together.
+723,ginger,telmisartan,,,,Patient is taking ginger and telmisartan together.
+724,black pepper,telmisartan,,,,Patient is taking black pepper and telmisartan together.
+725,long pepper,telmisartan,,,,Patient is taking long pepper and telmisartan together.
+726,cinnamon,telmisartan,,,,Patient is taking cinnamon and telmisartan together.
+727,black pepper,telmisartan,,,,Patient is taking black pepper and telmisartan together.
+728,triphala,vitamin b-complex,,,,Patient is taking triphala and vitamin b-complex together.
+729,guggul,vitamin b-complex,,,,Patient is taking guggul and vitamin b-complex together.
+730,ginger,vitamin b-complex,,,,Patient is taking ginger and vitamin b-complex together.
+731,black pepper,vitamin b-complex,,,,Patient is taking black pepper and vitamin b-complex together.
+732,long pepper,vitamin b-complex,,,,Patient is taking long pepper and vitamin b-complex together.
+733,cinnamon,vitamin b-complex,,,,Patient is taking cinnamon and vitamin b-complex together.
+734,black pepper,vitamin b-complex,,,,Patient is taking black pepper and vitamin b-complex together.
+735,triphala,atenolol,,,,Patient is taking triphala and atenolol together.
+736,guggul,atenolol,,,,Patient is taking guggul and atenolol together.
+737,triphala,atenolol,,,,Patient is taking triphala and atenolol together.
+738,guggul,atenolol,,,,Patient is taking guggul and atenolol together.
+739,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+740,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+741,ginger,paracetamol,,,,Patient is taking ginger and paracetamol together.
+742,black pepper,paracetamol,,,,Patient is taking black pepper and paracetamol together.
+743,long pepper,paracetamol,,,,Patient is taking long pepper and paracetamol together.
+744,cinnamon,paracetamol,,,,Patient is taking cinnamon and paracetamol together.
+745,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+746,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+747,tiryaq-e-nazla,paracetamol,,,,Patient is taking tiryaq-e-nazla and paracetamol together.
+748,triphala,amoxicillin,,,,Patient is taking triphala and amoxicillin together.
+749,guggul,amoxicillin,,,,Patient is taking guggul and amoxicillin together.
+750,ginger,amoxicillin,,,,Patient is taking ginger and amoxicillin together.
+751,black pepper,amoxicillin,,,,Patient is taking black pepper and amoxicillin together.
+752,long pepper,amoxicillin,,,,Patient is taking long pepper and amoxicillin together.
+753,cinnamon,amoxicillin,,,,Patient is taking cinnamon and amoxicillin together.
+754,triphala,amoxicillin,,,,Patient is taking triphala and amoxicillin together.
+755,guggul,amoxicillin,,,,Patient is taking guggul and amoxicillin together.
+756,tiryaq-e-nazla,amoxicillin,,,,Patient is taking tiryaq-e-nazla and amoxicillin together.
+757,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+758,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+759,ginger,cetirizine,,,,Patient is taking ginger and cetirizine together.
+760,black pepper,cetirizine,,,,Patient is taking black pepper and cetirizine together.
+761,long pepper,cetirizine,,,,Patient is taking long pepper and cetirizine together.
+762,cinnamon,cetirizine,,,,Patient is taking cinnamon and cetirizine together.
+763,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+764,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+765,tiryaq-e-nazla,cetirizine,,,,Patient is taking tiryaq-e-nazla and cetirizine together.
+766,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+767,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+768,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+769,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+770,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+771,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+772,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+773,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+774,tiryaq-e-nazla,pantoprazole,,,,Patient is taking tiryaq-e-nazla and pantoprazole together.
+775,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+776,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+777,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+778,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+779,ginger,diclofenac,,,,Patient is taking ginger and diclofenac together.
+780,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+781,long pepper,diclofenac,,,,Patient is taking long pepper and diclofenac together.
+782,cinnamon,diclofenac,,,,Patient is taking cinnamon and diclofenac together.
+783,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+784,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+785,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+786,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+787,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+788,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+789,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+790,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+791,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+792,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+793,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+794,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+795,ginger,paracetamol,,,,Patient is taking ginger and paracetamol together.
+796,black pepper,paracetamol,,,,Patient is taking black pepper and paracetamol together.
+797,long pepper,paracetamol,,,,Patient is taking long pepper and paracetamol together.
+798,cinnamon,paracetamol,,,,Patient is taking cinnamon and paracetamol together.
+799,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+800,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+801,triphala,ciprofloxacin,,,,Patient is taking triphala and ciprofloxacin together.
+802,guggul,ciprofloxacin,,,,Patient is taking guggul and ciprofloxacin together.
+803,ginger,ciprofloxacin,,,,Patient is taking ginger and ciprofloxacin together.
+804,black pepper,ciprofloxacin,,,,Patient is taking black pepper and ciprofloxacin together.
+805,long pepper,ciprofloxacin,,,,Patient is taking long pepper and ciprofloxacin together.
+806,cinnamon,ciprofloxacin,,,,Patient is taking cinnamon and ciprofloxacin together.
+807,triphala,ciprofloxacin,,,,Patient is taking triphala and ciprofloxacin together.
+808,guggul,ciprofloxacin,,,,Patient is taking guggul and ciprofloxacin together.
+809,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+810,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+811,ginger,cetirizine,,,,Patient is taking ginger and cetirizine together.
+812,black pepper,cetirizine,,,,Patient is taking black pepper and cetirizine together.
+813,long pepper,cetirizine,,,,Patient is taking long pepper and cetirizine together.
+814,cinnamon,cetirizine,,,,Patient is taking cinnamon and cetirizine together.
+815,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+816,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+817,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+818,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+819,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+820,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+821,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+822,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+823,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+824,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+825,triphala,ambroxol,,,,Patient is taking triphala and ambroxol together.
+826,guggul,ambroxol,,,,Patient is taking guggul and ambroxol together.
+827,ginger,ambroxol,,,,Patient is taking ginger and ambroxol together.
+828,black pepper,ambroxol,,,,Patient is taking black pepper and ambroxol together.
+829,long pepper,ambroxol,,,,Patient is taking long pepper and ambroxol together.
+830,cinnamon,ambroxol,,,,Patient is taking cinnamon and ambroxol together.
+831,triphala,ambroxol,,,,Patient is taking triphala and ambroxol together.
+832,guggul,ambroxol,,,,Patient is taking guggul and ambroxol together.
+833,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+834,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+835,ginger,diclofenac,,,,Patient is taking ginger and diclofenac together.
+836,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+837,long pepper,diclofenac,,,,Patient is taking long pepper and diclofenac together.
+838,cinnamon,diclofenac,,,,Patient is taking cinnamon and diclofenac together.
+839,black pepper,diclofenac,,,,Patient is taking black pepper and diclofenac together.
+840,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+841,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+842,ginger,pantoprazole,,,,Patient is taking ginger and pantoprazole together.
+843,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+844,long pepper,pantoprazole,,,,Patient is taking long pepper and pantoprazole together.
+845,cinnamon,pantoprazole,,,,Patient is taking cinnamon and pantoprazole together.
+846,black pepper,pantoprazole,,,,Patient is taking black pepper and pantoprazole together.
+847,triphala,vitamin b-complex,,,,Patient is taking triphala and vitamin b-complex together.
+848,guggul,vitamin b-complex,,,,Patient is taking guggul and vitamin b-complex together.
+849,ginger,vitamin b-complex,,,,Patient is taking ginger and vitamin b-complex together.
+850,black pepper,vitamin b-complex,,,,Patient is taking black pepper and vitamin b-complex together.
+851,long pepper,vitamin b-complex,,,,Patient is taking long pepper and vitamin b-complex together.
+852,cinnamon,vitamin b-complex,,,,Patient is taking cinnamon and vitamin b-complex together.
+853,black pepper,vitamin b-complex,,,,Patient is taking black pepper and vitamin b-complex together.
+854,triphala,calcium,,,,Patient is taking triphala and calcium together.
+855,guggul,calcium,,,,Patient is taking guggul and calcium together.
+856,ginger,calcium,,,,Patient is taking ginger and calcium together.
+857,black pepper,calcium,,,,Patient is taking black pepper and calcium together.
+858,long pepper,calcium,,,,Patient is taking long pepper and calcium together.
+859,cinnamon,calcium,,,,Patient is taking cinnamon and calcium together.
+860,black pepper,calcium,,,,Patient is taking black pepper and calcium together.
+861,triphala,vitamin d3,,,,Patient is taking triphala and vitamin d3 together.
+862,guggul,vitamin d3,,,,Patient is taking guggul and vitamin d3 together.
+863,ginger,vitamin d3,,,,Patient is taking ginger and vitamin d3 together.
+864,black pepper,vitamin d3,,,,Patient is taking black pepper and vitamin d3 together.
+865,long pepper,vitamin d3,,,,Patient is taking long pepper and vitamin d3 together.
+866,cinnamon,vitamin d3,,,,Patient is taking cinnamon and vitamin d3 together.
+867,black pepper,vitamin d3,,,,Patient is taking black pepper and vitamin d3 together.
+868,triphala,ciprofloxacin,,,,Patient is taking triphala and ciprofloxacin together.
+869,guduchi,ciprofloxacin,,,,Patient is taking guduchi and ciprofloxacin together.
+870,guggul,ciprofloxacin,,,,Patient is taking guggul and ciprofloxacin together.
+871,ginger,ciprofloxacin,,,,Patient is taking ginger and ciprofloxacin together.
+872,black pepper,ciprofloxacin,,,,Patient is taking black pepper and ciprofloxacin together.
+873,long pepper,ciprofloxacin,,,,Patient is taking long pepper and ciprofloxacin together.
+874,tiryaq-e-nazla,ciprofloxacin,,,,Patient is taking tiryaq-e-nazla and ciprofloxacin together.
+875,triphala,metronidazole,,,,Patient is taking triphala and metronidazole together.
+876,guggul,metronidazole,,,,Patient is taking guggul and metronidazole together.
+877,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+878,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+879,triphala,amlodipine,,,,Patient is taking triphala and amlodipine together.
+880,guggul,amlodipine,,,,Patient is taking guggul and amlodipine together.
+881,triphala,diclofenac,,,,Patient is taking triphala and diclofenac together.
+882,guggul,diclofenac,,,,Patient is taking guggul and diclofenac together.
+883,triphala,cetirizine,,,,Patient is taking triphala and cetirizine together.
+884,guggul,cetirizine,,,,Patient is taking guggul and cetirizine together.
+885,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+886,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+887,triphala,ambroxol,,,,Patient is taking triphala and ambroxol together.
+888,guggul,ambroxol,,,,Patient is taking guggul and ambroxol together.
+889,chandraprabha vati,paracetamol,,,,Patient is taking chandraprabha vati and paracetamol together.
+890,triphala,paracetamol,,,,Patient is taking triphala and paracetamol together.
+891,guggul,paracetamol,,,,Patient is taking guggul and paracetamol together.
+892,tiryaq-e-nazla,paracetamol,,,,Patient is taking tiryaq-e-nazla and paracetamol together.
+893,chandraprabha vati,azithromycin,,,,Patient is taking chandraprabha vati and azithromycin together.
+894,triphala,azithromycin,,,,Patient is taking triphala and azithromycin together.
+895,guggul,azithromycin,,,,Patient is taking guggul and azithromycin together.
+896,tiryaq-e-nazla,azithromycin,,,,Patient is taking tiryaq-e-nazla and azithromycin together.
+897,chandraprabha vati,pantoprazole,,,,Patient is taking chandraprabha vati and pantoprazole together.
+898,triphala,pantoprazole,,,,Patient is taking triphala and pantoprazole together.
+899,guggul,pantoprazole,,,,Patient is taking guggul and pantoprazole together.
+900,tiryaq-e-nazla,pantoprazole,,,,Patient is taking tiryaq-e-nazla and pantoprazole together.

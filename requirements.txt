@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+torch
+transformers
+networkx
+pydantic
+python-multipart
+# For Excel/CSV handling
+openpyxl
+# For the Knowledge Graph/NLP fluff cleaning
