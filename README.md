@@ -1,10 +1,10 @@
 # AI-Driven Clinical Decision Support System for Safe Integration of Herbal Medicine
 
 ## Overview
-An advanced, AI-powered Clinical Decision Support System (CDSS) designed to ensure the safe integration of herbal medicine into standard clinical workflows. By analyzing complex Herb-Drug Interactions (HDIs) using state-of-the-art Natural Language Processing (NLP) and Knowledge Graphs, the system provides real-time, evidence-based safety recommendations to healthcare providers.
+An advanced, AI-powered Clinical Decision Support System (CDSS) designed to ensure the safe integration of herbal medicine into standard clinical workflows. By analyzing complex Herb-Drug Interactions, this system provides clinicians with evidence-based insights to support safer prescription decisions.
 
 ## Problem Statement
-The increasing use of herbal supplements alongside conventional medications presents significant clinical risks due to unrecorded or poorly understood Herb-Drug Interactions. Existing clinical systems often lack comprehensive databases or predictive models to assess these interactions, leaving a critical gap in patient safety.
+The increasing use of herbal supplements alongside conventional medications presents significant clinical risks due to unrecorded or poorly understood Herb-Drug Interactions. Existing clinical systems often lack integrated mechanisms to alert practitioners about these potentially dangerous combinations, leading to adverse events and compromised patient safety.
 
 ## Objectives
 - Automatically identify and predict potential Herb-Drug Interactions.
@@ -46,8 +46,8 @@ Please check the `/screenshots` directory for visual demonstrations of the syste
 ## Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Driven-Clinical-Decision-Support-System.git
-   cd AI-Driven-Clinical-Decision-Support-System
+   git clone https://github.com/aditijaltade4-code/AI-Driven-Clinical-Decision-Support-System-for-Safe-Integration-of-Herbal-Medicine.git
+   cd AI-Driven-Clinical-Decision-Support-System-for-Safe-Integration-of-Herbal-Medicine
    ```
 2. Create and activate a virtual environment:
    ```bash
@@ -58,7 +58,7 @@ Please check the `/screenshots` directory for visual demonstrations of the syste
    ```bash
    pip install -r requirements.txt
    ```
-4. Note: BioBERT model weights are excluded due to GitHub storage limitations. You will need to download the appropriate Hugging Face BioBERT model to the `hdi_model_biobert_ner` directory before running the full NLP pipeline.
+4. Note: BioBERT model weights are excluded due to GitHub storage limitations. You will need to download the appropriate Hugging Face BioBERT model to the `hdi_model_biobert_ner` directory before running the system.
 
 ## Usage Instructions
 1. Start the backend FastAPI server:
@@ -94,4 +94,7 @@ AI-Driven-Clinical-Decision-Support-System/
 
 ## Author Details
 **Aditi**
-[GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+**GitHub:** https://github.com/aditijaltade4-code
+
+**LinkedIn:** https://linkedin.com/in/aditijaltade1809
